@@ -1,0 +1,38 @@
+name: Sync CorePower schedule
+
+on:
+  schedule:
+    # Every 4 hours
+    - cron: "0 */4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate feeds
+        run: python scripts/generate_all.py
+
+      - name: Commit updated feeds
+        run: |
+          git config user.name "cp-calendar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "No schedule changes, nothing to commit."
+          else
+            git commit -m "Sync CorePower schedule $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "North Boulder",
+    "slug": "north-boulder",
+    "zenotiCenterId": "22991841-d47c-4101-b8ff-423905dcf181"
+  },
+  {
+    "name": "Boulder on the Hill",
+    "slug": "boulder-on-the-hill",
+    "zenotiCenterId": "c5d899a4-c58a-4bec-9f64-98dd2db2cb05"
+  },
+  {
+    "name": "South Boulder",
+    "slug": "south-boulder",
+    "zenotiCenterId": "6c4c5bd4-d87d-42c6-931a-45865fc57a37"
+  }
+]
