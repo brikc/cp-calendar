@@ -31,14 +31,24 @@ def _parse_api_utc(value: str) -> dt.datetime:
 
 
 def _class_detail_url(session: dict[str, Any]) -> str:
+    """Link to this class type's page for this specific studio.
+
+    CorePower's actual Next.js route is /yoga-fitness-classes/[classtype]/[id]
+    (confirmed against the live site); there is no real per-session page --
+    an earlier version of this guessed a 4-segment /session/.../sessionId
+    path from minified JS that turned out to be client-side-only modal state
+    and 404s on direct navigation. This route is real and always resolves;
+    its [id] segment is read client-side to filter that class type down to
+    one studio, so the link lands you on the right studio's listing for that
+    class type, sorted chronologically, where you can confirm the exact class.
+    """
     category = (session.get("class") or {}).get("category") or {}
     category_name = category.get("name")
     center_id = (session.get("center") or {}).get("id")
-    session_id = session.get("session_id")
 
     slug = CATEGORY_SLUGS.get(category_name)
-    if slug and center_id and session_id:
-        return f"https://www.corepoweryoga.com/yoga-fitness-classes/session/{slug}/{center_id}/{session_id}"
+    if slug and center_id:
+        return f"https://www.corepoweryoga.com/yoga-fitness-classes/{slug}/{center_id}"
     return STUDIO_SCHEDULE_URL
 
 
@@ -71,7 +81,7 @@ def _build_session_event(session: dict[str, Any], *, studio_name: str, generated
         f"Synced: {generated_at.strftime('%b %-d, %-I:%M %p %Z')} "
         f"({generated_at.astimezone(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')} UTC)"
     )
-    description_lines.append("Tap the event link to verify live on corepoweryoga.com.")
+    description_lines.append("Tap the event link to check this studio's live schedule on corepoweryoga.com.")
 
     event.add("uid", _session_uid(session))
     event.add("summary", f"{category_name} — {studio_name}")
