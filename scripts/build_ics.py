@@ -7,20 +7,17 @@ from uuid import NAMESPACE_URL, uuid5
 
 from icalendar import Calendar, Event
 
-# Map CorePower's class category names to the slugs used in their own
-# site navigation / class-detail URLs, e.g.:
-#   https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/studio
-# Used to build a direct, human-clickable link to the live class page.
-CATEGORY_SLUGS = {
-    "CorePower Yoga 1": "corepower-1",
-    "CorePower Yoga 2": "corepower-2",
-    "CorePower Yoga 3": "corepower-1",  # no distinct nav page observed; falls back below anyway
-    "Yoga Sculpt": "yoga-sculpt",
-    "CorePower Yoga Strength X": "corepower-strength-x",
-    "Hot Power Fusion": "hot-power-fusion",
-    "CoreRestore": "corerestore",
-}
-
+# CorePower's site has NO real per-studio or per-class deep link. Studio and
+# date selection on their schedule page happens entirely in client-side widget
+# state (never reflected in the URL), and the /yoga-fitness-classes/[classtype]/[id]
+# route's [id] segment is actually used to build a CMS content slug looked up
+# in their Contentful backend -- the only value ever published there is the
+# literal string "studio" (that's why every real nav link is .../studio).
+# Putting anything else there (a studio UUID, a slug) finds no matching CMS
+# entry and their app's not-found fallback bounces to the homepage -- which is
+# the bug this previously caused. There's simply nothing more precise to link
+# to, so every event links to the real, generic schedule page below, where you
+# pick your studio and date yourself.
 STUDIO_SCHEDULE_URL = "https://www.corepoweryoga.com/yoga-schedules/studio"
 UID_NAMESPACE = NAMESPACE_URL  # stable namespace for deriving deterministic UIDs
 
@@ -28,28 +25,6 @@ UID_NAMESPACE = NAMESPACE_URL  # stable namespace for deriving deterministic UID
 def _parse_api_utc(value: str) -> dt.datetime:
     """Parse the API's millisecond-precision 'Z' timestamps into aware UTC datetimes."""
     return dt.datetime.strptime(value, "%Y-%m-%dT%H:%M:%S.%f%z")
-
-
-def _class_detail_url(session: dict[str, Any]) -> str:
-    """Link to this class type's page for this specific studio.
-
-    CorePower's actual Next.js route is /yoga-fitness-classes/[classtype]/[id]
-    (confirmed against the live site); there is no real per-session page --
-    an earlier version of this guessed a 4-segment /session/.../sessionId
-    path from minified JS that turned out to be client-side-only modal state
-    and 404s on direct navigation. This route is real and always resolves;
-    its [id] segment is read client-side to filter that class type down to
-    one studio, so the link lands you on the right studio's listing for that
-    class type, sorted chronologically, where you can confirm the exact class.
-    """
-    category = (session.get("class") or {}).get("category") or {}
-    category_name = category.get("name")
-    center_id = (session.get("center") or {}).get("id")
-
-    slug = CATEGORY_SLUGS.get(category_name)
-    if slug and center_id:
-        return f"https://www.corepoweryoga.com/yoga-fitness-classes/{slug}/{center_id}"
-    return STUDIO_SCHEDULE_URL
 
 
 def _session_uid(session: dict[str, Any]) -> str:
@@ -81,7 +56,10 @@ def _build_session_event(session: dict[str, Any], *, studio_name: str, generated
         f"Synced: {generated_at.strftime('%b %-d, %-I:%M %p %Z')} "
         f"({generated_at.astimezone(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')} UTC)"
     )
-    description_lines.append("Tap the event link to check this studio's live schedule on corepoweryoga.com.")
+    description_lines.append(
+        "Tap the event link, then pick this studio and date, to check the live "
+        "schedule on corepoweryoga.com (CorePower has no direct per-class link)."
+    )
 
     event.add("uid", _session_uid(session))
     event.add("summary", f"{category_name} — {studio_name}")
@@ -90,7 +68,7 @@ def _build_session_event(session: dict[str, Any], *, studio_name: str, generated
     event.add("dtstamp", generated_at)
     event.add("location", studio_name)
     event.add("description", "\n".join(description_lines))
-    event.add("url", _class_detail_url(session))
+    event.add("url", STUDIO_SCHEDULE_URL)
     return event
 
 

@@ -8,10 +8,10 @@ X-WR-CALDESC:Auto-synced class schedule for CorePower Yoga South Boulder.
 X-WR-CALNAME:CorePower Yoga — South Boulder
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-SUMMARY:📅 South Boulder feed last generated Oct 13\, 2:06 AM UTC
+SUMMARY:📅 South Boulder feed last generated Oct 13\, 2:16 AM UTC
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:sync-banner-south-boulder-2026-10-13@cp-calendar
 DESCRIPTION:This feed is regenerated on a schedule and Google Calendar may
   take hours to re-fetch it. Open a class's link to confirm it against the 
@@ -22,1002 +22,1000 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261013T120000Z
 DTEND:20261013T130000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:09dc3ef8-82af-5abb-9e7a-a627e05865af@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: South Boulder\nSpots: 38 available 
- of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261013T120000Z
 DTEND:20261013T130000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:859420ad-7296-5145-a128-195af4ec2f36@cp-calendar
-DESCRIPTION:Instructor: Ally C\nStudio: South Boulder\nSpots: 37 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+DESCRIPTION:Instructor: Ally C\nStudio: South Boulder\nSpots: 36 available
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261013T131500Z
 DTEND:20261013T141500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:4e2f7daa-ad00-53bf-95f5-f178018e3574@cp-calendar
 DESCRIPTION:Instructor: Laramie R\nStudio: South Boulder\nSpots: 30 availa
- ble of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261013T133000Z
 DTEND:20261013T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:055c8d1c-5d8a-56bf-bfb1-df83e69e81a4@cp-calendar
 DESCRIPTION:Instructor: Ally C\nStudio: South Boulder\nSpots: 21 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261013T150000Z
 DTEND:20261013T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:fcbe9cf4-73c0-5130-a699-5d4e99ace84c@cp-calendar
 DESCRIPTION:Instructor: Justin S\nStudio: South Boulder\nSpots: 33 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261013T153000Z
 DTEND:20261013T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:bf11f667-0991-5d30-8860-8fd84a78972a@cp-calendar
 DESCRIPTION:Instructor: Megan O\nStudio: South Boulder\nSpots: 39 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261013T170000Z
 DTEND:20261013T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:27c8f9e2-03e3-564d-8528-e3be7579b3f5@cp-calendar
 DESCRIPTION:Instructor: Emerson M\nStudio: South Boulder\nSpots: 46 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — South Boulder
 DTSTART:20261013T173000Z
 DTEND:20261013T183000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:775128a6-6aec-577f-b763-857d9d9b86c3@cp-calendar
 DESCRIPTION:Instructor: Riley C\nStudio: South Boulder\nSpots: 39 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-1/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261013T181500Z
 DTEND:20261013T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:138e3eaf-9d8a-5b63-8e50-ae67c9f8f86c@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: South Boulder\nSpots: 48 available 
- of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261013T211500Z
 DTEND:20261013T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:84dc9a2d-f14e-55d0-af48-e504b8590dd9@cp-calendar
 DESCRIPTION:Instructor: Rachel M\nStudio: South Boulder\nSpots: 42 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261013T214500Z
 DTEND:20261013T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:1d496c3e-032a-5b91-8e62-652afd6329c6@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 38 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261013T223000Z
 DTEND:20261013T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:cd2fa0ac-53d5-599d-95c0-40e80c05d554@cp-calendar
 DESCRIPTION:Instructor: Alex Y\nStudio: South Boulder\nSpots: 39 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261013T231500Z
 DTEND:20261014T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:bef80b7e-b5ad-50c2-bf73-031505f2bf20@cp-calendar
 DESCRIPTION:Instructor: Sam L\nStudio: South Boulder\nSpots: 38 available 
- of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261013T234500Z
 DTEND:20261014T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:b80070af-f388-5c86-8322-d27e99accce0@cp-calendar
 DESCRIPTION:Instructor: Mekenzie K\nStudio: South Boulder\nSpots: 41 avail
- able of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261014T003000Z
 DTEND:20261014T013000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:aee7415e-9f17-5c0b-9641-b6dcfe2bb711@cp-calendar
 DESCRIPTION:Instructor: Terrie M\nStudio: South Boulder\nSpots: 40 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261014T011500Z
 DTEND:20261014T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:6606b79d-a70b-5a03-abf1-755a1db5e06d@cp-calendar
-DESCRIPTION:Instructor: Lulu L\, Ally C\nStudio: South Boulder\nSpots: 19 
- available of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)
- \nTap the event link to check this studio's live schedule on corepoweryoga
- .com.
+DESCRIPTION:Instructor: Lulu L\, Ally C\nStudio: South Boulder\nSpots: 17 
+ available of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)
+ \nTap the event link\, then pick this studio and date\, to check the live 
+ schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — South Boulder
 DTSTART:20261014T014500Z
 DTEND:20261014T024500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:6d47eb72-4bce-599f-a62c-1b8e9c527e99@cp-calendar
 DESCRIPTION:Instructor: Virginia S\nStudio: South Boulder\nSpots: 38 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/hot-power-fusion/6c
- 4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261014T120000Z
 DTEND:20261014T130000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:c0b4110b-ae12-5574-a917-3b14945f1ed1@cp-calendar
 DESCRIPTION:Instructor: Laramie R\nStudio: South Boulder\nSpots: 39 availa
- ble of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261014T131500Z
 DTEND:20261014T141500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:54547f95-5655-54a3-9a1d-c4ee504aa3bd@cp-calendar
 DESCRIPTION:Instructor: Ashley L\nStudio: South Boulder\nSpots: 36 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261014T133000Z
 DTEND:20261014T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:26ccadd5-b01d-533a-a804-c9be7b030dfe@cp-calendar
 DESCRIPTION:Instructor: Rachel M\nStudio: South Boulder\nSpots: 36 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261014T150000Z
 DTEND:20261014T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:e52b9dd5-8aee-5f60-a651-044fb3cc4dd9@cp-calendar
 DESCRIPTION:Instructor: Natalie M\nStudio: South Boulder\nSpots: 40 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261014T153000Z
 DTEND:20261014T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:7b3e893d-4163-5ce5-9fb4-e82e55cadd41@cp-calendar
 DESCRIPTION:Instructor: Jennifer B\nStudio: South Boulder\nSpots: 40 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261014T170000Z
 DTEND:20261014T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:95ad9f06-fea2-5d06-a3eb-725f0a5c4e7c@cp-calendar
 DESCRIPTION:Instructor: Eileen T\nStudio: South Boulder\nSpots: 50 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261014T173000Z
 DTEND:20261014T183000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:30d4fd5d-226e-514f-8bb4-2d1e30eeedb3@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: South Boulder\nSpots: 40 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261014T181500Z
 DTEND:20261014T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:db771485-c7f4-5a87-809a-dd8d5b130f31@cp-calendar
 DESCRIPTION:Instructor: Monica M\nStudio: South Boulder\nSpots: 46 availab
- le of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CoreRestore — South Boulder
 DTSTART:20261014T193000Z
 DTEND:20261014T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:cd358527-9d78-5db7-8a08-d9e364b33c51@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corerestore/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261014T193000Z
 DTEND:20261014T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:f6d51419-f3a2-5c2c-a4e9-5cdc3a1ad755@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: South Boulder\nSpots: 39 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261014T211500Z
 DTEND:20261014T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:8ab472e0-ee6f-5ace-9626-5e813f66ebde@cp-calendar
 DESCRIPTION:Instructor: Camille B\nStudio: South Boulder\nSpots: 47 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261014T214500Z
 DTEND:20261014T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:b6f708e5-7b54-567b-b020-544c30e224dc@cp-calendar
 DESCRIPTION:Instructor: Ashly K\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261014T223000Z
 DTEND:20261014T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:7bbf9cc2-9cf9-5ad7-8beb-2804e863536d@cp-calendar
 DESCRIPTION:Instructor: Kaitlin C\nStudio: South Boulder\nSpots: 47 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261014T231500Z
 DTEND:20261015T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:952fc9e3-92b1-5aa0-bde8-f197a1bc4882@cp-calendar
 DESCRIPTION:Instructor: Ashly K\nStudio: South Boulder\nSpots: 39 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261014T234500Z
 DTEND:20261015T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:76fa4ca0-4c17-5bc5-9778-ae2394d14a13@cp-calendar
 DESCRIPTION:Instructor: Stella H\nStudio: South Boulder\nSpots: 45 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261015T003000Z
 DTEND:20261015T013000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:830a5a4d-d60d-5f90-8768-6dc23e0667ad@cp-calendar
 DESCRIPTION:Instructor: Megan O\nStudio: South Boulder\nSpots: 37 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261015T011500Z
 DTEND:20261015T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:53be34d8-cfd7-5457-a728-b7fa69abb73b@cp-calendar
 DESCRIPTION:Instructor: Jenna S\nStudio: South Boulder\nSpots: 48 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — South Boulder
 DTSTART:20261015T014500Z
 DTEND:20261015T024500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:969a3469-9bea-592d-a59f-d29c52dcd1ea@cp-calendar
 DESCRIPTION:Instructor: Jyll L\nStudio: South Boulder\nSpots: 38 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/hot-power-fusion/6c
- 4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261015T120000Z
 DTEND:20261015T130000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:34cbe643-9e97-5168-9097-16b9386db8d5@cp-calendar
 DESCRIPTION:Instructor: Will F\nStudio: South Boulder\nSpots: 39 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261015T121500Z
 DTEND:20261015T131500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:134cf674-2b06-53ce-af99-4940909aa4b8@cp-calendar
 DESCRIPTION:Instructor: Gabrielle R\nStudio: South Boulder\nSpots: 46 avai
- lable of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTa
- p the event link to check this studio's live schedule on corepoweryoga.com
- .
+ lable of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261015T133000Z
 DTEND:20261015T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:caa035ca-5a1b-5bd7-9a7c-4d312af7afaf@cp-calendar
 DESCRIPTION:Instructor: Emily L\nStudio: South Boulder\nSpots: 50 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261015T150000Z
 DTEND:20261015T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:61f29be1-174a-59d7-98b0-2b3dd8b7d8c1@cp-calendar
 DESCRIPTION:Instructor: Laura L\nStudio: South Boulder\nSpots: 46 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261015T153000Z
 DTEND:20261015T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:71dc99d4-1d68-5a23-8840-83c4ebee0ccf@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 38 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261015T170000Z
 DTEND:20261015T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:3dfb2fcb-451c-5e87-85e1-fc22b884c919@cp-calendar
 DESCRIPTION:Instructor: Emerson M\nStudio: South Boulder\nSpots: 51 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261015T173000Z
 DTEND:20261015T183000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d9f51eda-5075-594f-811d-a2a37860ecc1@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 38 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261015T181500Z
 DTEND:20261015T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:751ce246-ea22-5c3b-bf54-2dc07f354b08@cp-calendar
 DESCRIPTION:Instructor: Alex Y\nStudio: South Boulder\nSpots: 48 available
-  of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261015T193000Z
 DTEND:20261015T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:4ce105bd-75c9-5825-ba28-811586474259@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261015T211500Z
 DTEND:20261015T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:80957e1c-235e-58c8-b883-6c99b7ccc563@cp-calendar
 DESCRIPTION:Instructor: Natalie H\nStudio: South Boulder\nSpots: 45 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261015T214500Z
 DTEND:20261015T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:08bf5545-392e-56d7-8bf3-816dc61b9e2d@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261015T223000Z
 DTEND:20261015T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:debec171-e60c-511b-9f9c-53c7a140f0a2@cp-calendar
 DESCRIPTION:Instructor: Natalie H\nStudio: South Boulder\nSpots: 48 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261015T231500Z
 DTEND:20261016T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:fc6f62ce-d7ee-5a07-b86d-0acab95123c5@cp-calendar
 DESCRIPTION:Instructor: Emma M\nStudio: South Boulder\nSpots: 39 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261015T234500Z
 DTEND:20261016T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:0fe3af02-a27b-5250-8bc2-c15c92e9b6a0@cp-calendar
 DESCRIPTION:Instructor: Greg M\nStudio: South Boulder\nSpots: 46 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261016T003000Z
 DTEND:20261016T013000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:eb794001-32e4-59a6-a7b0-d65094351503@cp-calendar
 DESCRIPTION:Instructor: Megan O\nStudio: South Boulder\nSpots: 39 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261016T011500Z
 DTEND:20261016T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:7d08ce66-0f9a-54aa-b3ab-56e38d46f022@cp-calendar
 DESCRIPTION:Instructor: Sylvie W\nStudio: South Boulder\nSpots: 52 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261016T014500Z
 DTEND:20261016T024500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d17c0c58-0b76-53bb-9bc3-f74b31cc6e1f@cp-calendar
 DESCRIPTION:Instructor: Carly B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261016T030000Z
 DTEND:20261016T040000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:985262c0-8ae1-5357-9445-be3f526a4729@cp-calendar
 DESCRIPTION:Instructor: Sylvie W\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261016T121500Z
 DTEND:20261016T131500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:81951a56-c590-5ab8-9334-c02cd22ca065@cp-calendar
 DESCRIPTION:Instructor: Justin S\nStudio: South Boulder\nSpots: 53 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261016T133000Z
 DTEND:20261016T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:3d3a032c-0016-5168-80fc-3058b8e7cd0e@cp-calendar
 DESCRIPTION:Instructor: Jennifer J\nStudio: South Boulder\nSpots: 39 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261016T133000Z
 DTEND:20261016T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:10b9ec16-1262-5b19-8c80-1d31a40aea44@cp-calendar
 DESCRIPTION:Instructor: Matilde L\nStudio: South Boulder\nSpots: 47 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261016T150000Z
 DTEND:20261016T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:94549d55-b4f8-5cb9-9f53-b65e37051c39@cp-calendar
 DESCRIPTION:Instructor: Matilde L\nStudio: South Boulder\nSpots: 48 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261016T151500Z
 DTEND:20261016T161500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:cf54511b-5c31-5c70-b8c2-396d270aa7c8@cp-calendar
 DESCRIPTION:Instructor: Jennifer J\nStudio: South Boulder\nSpots: 40 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — South Boulder
 DTSTART:20261016T164500Z
 DTEND:20261016T174500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:9b9459b9-cf31-5c68-abb2-94a7d076968a@cp-calendar
 DESCRIPTION:Instructor: Jennifer J\nStudio: South Boulder\nSpots: 40 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/hot-power-fusion/6c
- 4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261016T170000Z
 DTEND:20261016T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:c8020ebb-c5d3-5938-9091-c64a428f7004@cp-calendar
 DESCRIPTION:Instructor: Lulu L\nStudio: South Boulder\nSpots: 49 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261016T181500Z
 DTEND:20261016T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:0a472a07-7eeb-5e93-a2ac-b4273c1d1fe3@cp-calendar
 DESCRIPTION:Instructor: Monica M\nStudio: South Boulder\nSpots: 49 availab
- le of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261016T193000Z
 DTEND:20261016T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:8623dcdb-2a6e-545e-a686-4b37a15de9c3@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 39 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261016T211500Z
 DTEND:20261016T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d3fdc2a8-214f-5f14-9833-6efa74ae4393@cp-calendar
 DESCRIPTION:Instructor: Justin S\nStudio: South Boulder\nSpots: 53 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261016T213000Z
 DTEND:20261016T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:e920ee62-f6af-5553-ab3c-89bb671055dc@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 39 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261016T223000Z
 DTEND:20261016T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:842895e7-e30d-5c49-9fac-9bbbd325c834@cp-calendar
 DESCRIPTION:Instructor: Gracynn B\nStudio: South Boulder\nSpots: 46 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261016T231500Z
 DTEND:20261017T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:9057d8b6-fa6e-5fcf-bb20-2d42b3438dd5@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 36 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261016T234500Z
 DTEND:20261017T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:3f83d4d5-e0a8-59d2-bc4d-17981bb953a7@cp-calendar
 DESCRIPTION:Instructor: Gabrielle R\nStudio: South Boulder\nSpots: 53 avai
- lable of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTa
- p the event link to check this studio's live schedule on corepoweryoga.com
- .
+ lable of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261017T003000Z
 DTEND:20261017T013000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:9a54f686-ef5f-5774-a8ee-81563ebdfb96@cp-calendar
 DESCRIPTION:Instructor: Will F\nStudio: South Boulder\nSpots: 39 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261017T011500Z
 DTEND:20261017T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:e01d3e72-3d66-5c6e-843b-8caa11fd8682@cp-calendar
 DESCRIPTION:Instructor: Stella H\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261017T140000Z
 DTEND:20261017T150000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:1ce1a9bd-9c38-5973-a435-7eaf4b01ec3a@cp-calendar
 DESCRIPTION:Instructor: Virginia S\nStudio: South Boulder\nSpots: 51 avail
- able of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261017T150000Z
 DTEND:20261017T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:7167170c-fe61-5eb9-9a22-eb1e554c7438@cp-calendar
 DESCRIPTION:Instructor: Will F\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261017T153000Z
 DTEND:20261017T164500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:a37364d7-8f87-59fe-8178-2bb6de4a14a9@cp-calendar
 DESCRIPTION:Instructor: Virginia S\nStudio: South Boulder\nSpots: 47 avail
- able of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 3 — South Boulder
 DTSTART:20261017T173000Z
 DTEND:20261017T184500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:a94699e9-21c6-5563-b912-09bad425944a@cp-calendar
 DESCRIPTION:Instructor: Jennifer B\nStudio: South Boulder\nSpots: 28 avail
- able of 30\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 30\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-1/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261017T183000Z
 DTEND:20261017T193000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:c55e730a-c371-5954-8773-cc422128cf33@cp-calendar
 DESCRIPTION:Instructor: Sylvie W\nStudio: South Boulder\nSpots: 51 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261017T191500Z
 DTEND:20261017T201500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:bda2cb59-6931-59a3-9d07-f43846e932e0@cp-calendar
 DESCRIPTION:Instructor: Will F\nStudio: South Boulder\nSpots: 39 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261017T200000Z
 DTEND:20261017T210000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:ac42db66-98c1-546a-8280-dd746dca1d43@cp-calendar
 DESCRIPTION:Instructor: Noelle D\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Yoga — South Boulder
 DTSTART:20261017T210000Z
 DTEND:20261017T220000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:4f60117a-c059-5f1b-8714-838d5d73375c@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1025,37 +1023,38 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261017T231500Z
 DTEND:20261018T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:3c88a724-a041-57d1-a8e7-8ac5e9ee32f2@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — South Boulder
 DTSTART:20261018T010000Z
 DTEND:20261018T020000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:ee9dd0d4-7bd7-5440-a5a6-36b3c9063974@cp-calendar
 DESCRIPTION:Instructor: John P\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-1/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Yoga — South Boulder
 DTSTART:20261018T020000Z
 DTEND:20261018T030000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:1e1fc865-679d-513d-9edb-bdea3d6b3cc6@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: South Boulder\nSpots: 51 available o
- f 51\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the e
- vent link to check this studio's live schedule on corepoweryoga.com.
+ f 51\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the e
+ vent link\, then pick this studio and date\, to check the live schedule on
+  corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1063,89 +1062,90 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261018T150000Z
 DTEND:20261018T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:6775a835-4be5-56e7-a160-6d61d7169c8f@cp-calendar
 DESCRIPTION:Instructor: Alex Me\nStudio: South Boulder\nSpots: 34 availabl
- e of 35\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 35\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261018T153000Z
 DTEND:20261018T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:b43659d9-cf6a-5ed0-a56f-828c4a653055@cp-calendar
 DESCRIPTION:Instructor: Greg M\nStudio: South Boulder\nSpots: 48 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261018T170000Z
 DTEND:20261018T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:7324bd11-807b-5379-b6ac-118d65b6c094@cp-calendar
 DESCRIPTION:Instructor: Alex Me\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261018T183000Z
 DTEND:20261018T193000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:c560d033-c902-544e-b203-5c43f6c2673e@cp-calendar
 DESCRIPTION:Instructor: Gracynn B\nStudio: South Boulder\nSpots: 50 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261018T191500Z
 DTEND:20261018T201500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:aaffc8a2-3f66-5706-97d1-2bc4f16d16cb@cp-calendar
 DESCRIPTION:Instructor: Carly B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261018T200000Z
 DTEND:20261018T210000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d8c9e9c1-fbb2-5eed-9c28-ee9f193722fe@cp-calendar
 DESCRIPTION:Instructor: Ava L\nStudio: South Boulder\nSpots: 54 available 
- of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Yoga — South Boulder
 DTSTART:20261018T210000Z
 DTEND:20261018T220000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:5ba6bd81-8224-5e9e-9f3c-4ea0e28454e0@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1153,1210 +1153,1208 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261018T223000Z
 DTEND:20261018T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:8ede04da-919c-5583-a051-bc6568fb735d@cp-calendar
 DESCRIPTION:Instructor: Stella H\nStudio: South Boulder\nSpots: 53 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261018T231500Z
 DTEND:20261019T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:94ccbe3c-c9e5-5dfb-89ba-62d7621b6ed5@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261019T000000Z
 DTEND:20261019T010000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:a51d4106-6910-56b6-8a63-03b8c76de18a@cp-calendar
 DESCRIPTION:Instructor: Kaley M\nStudio: South Boulder\nSpots: 54 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — South Boulder
 DTSTART:20261019T013000Z
 DTEND:20261019T023000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:7f7d3694-cf10-5997-88b6-6f745751abea@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: South Boulder\nSpots: 40 available o
- f 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the e
- vent link to check this studio's live schedule on corepoweryoga.com.
+ f 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the e
+ vent link\, then pick this studio and date\, to check the live schedule on
+  corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/hot-power-fusion/6c
- 4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261019T013000Z
 DTEND:20261019T023000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:43564d33-c27a-52b0-bae6-e2b61d474260@cp-calendar
 DESCRIPTION:Instructor: Taylor H\nStudio: South Boulder\nSpots: 38 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261019T120000Z
 DTEND:20261019T130000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:0373045b-bbba-5736-9895-d40afcfb6bdf@cp-calendar
 DESCRIPTION:Instructor: Jessica S\nStudio: South Boulder\nSpots: 40 availa
- ble of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261019T121500Z
 DTEND:20261019T131500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:7e081bbe-9032-54eb-846a-7b5c26c90396@cp-calendar
 DESCRIPTION:Instructor: Kaitlyn R\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261019T133000Z
 DTEND:20261019T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:e5cf7617-7c97-5ce8-a035-e9a4c1d1d198@cp-calendar
 DESCRIPTION:Instructor: Emma M\nStudio: South Boulder\nSpots: 54 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261019T133000Z
 DTEND:20261019T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:5d9e147d-3752-58a5-b033-a789bf1ccb1b@cp-calendar
 DESCRIPTION:Instructor: Jessica S\nStudio: South Boulder\nSpots: 40 availa
- ble of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261019T150000Z
 DTEND:20261019T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:db41c1f2-f977-543c-b7da-0741900f9097@cp-calendar
 DESCRIPTION:Instructor: Lulu L\nStudio: South Boulder\nSpots: 53 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261019T153000Z
 DTEND:20261019T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:1d22aecd-d7b5-5162-8abf-3db44136a6df@cp-calendar
 DESCRIPTION:Instructor: Devan A\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261019T170000Z
 DTEND:20261019T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:571c0589-d9b7-5c36-8da4-11e96c309b19@cp-calendar
 DESCRIPTION:Instructor: Devan A\nStudio: South Boulder\nSpots: 54 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261019T173000Z
 DTEND:20261019T183000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d17ad800-2025-5a3f-a00a-0ce6a259bb12@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: South Boulder\nSpots: 40 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261019T181500Z
 DTEND:20261019T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:35ce1335-3c0e-5759-98ba-ae5e012c9720@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: South Boulder\nSpots: 50 available 
- of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CoreRestore — South Boulder
 DTSTART:20261019T193000Z
 DTEND:20261019T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:6643ff69-d361-5944-b36c-e85b673c368a@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corerestore/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261019T193000Z
 DTEND:20261019T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:0a3264f5-0b6f-56e0-b6e3-1b7fbe5570d7@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: South Boulder\nSpots: 40 available 
- of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261019T211500Z
 DTEND:20261019T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:15e594a0-8d27-57c8-822b-3650f9a6b5f8@cp-calendar
 DESCRIPTION:Instructor: Camille B\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261019T214500Z
 DTEND:20261019T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:26d0dd35-3bd4-5077-9649-65ec01242a05@cp-calendar
 DESCRIPTION:Instructor: Janice E\nStudio: South Boulder\nSpots: 40 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261019T223000Z
 DTEND:20261019T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:2b4edfd5-c05d-5402-a79c-e4e9253776a7@cp-calendar
 DESCRIPTION:Instructor: Kaitlin C\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261019T231500Z
 DTEND:20261020T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:86a23f8b-1509-5e58-b916-55ab097789b4@cp-calendar
 DESCRIPTION:Instructor: Jennifer B\nStudio: South Boulder\nSpots: 40 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261019T234500Z
 DTEND:20261020T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:0cbe2045-6c9e-5cd2-be2b-b017d45e4760@cp-calendar
 DESCRIPTION:Instructor: Sam L\nStudio: South Boulder\nSpots: 54 available 
- of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261020T011500Z
 DTEND:20261020T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:636aa8b6-a2dd-5620-b382-3fc63435c279@cp-calendar
 DESCRIPTION:Instructor: Matilde L\nStudio: South Boulder\nSpots: 53 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CoreRestore — South Boulder
 DTSTART:20261020T014500Z
 DTEND:20261020T024500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:00f660cf-ec0a-5eda-88b1-e9d02a4e0bcf@cp-calendar
 DESCRIPTION:Instructor: Adrianna H\nStudio: South Boulder\nSpots: 54 avail
- able of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corerestore/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261020T120000Z
 DTEND:20261020T130000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:5f08b4cf-c370-5470-ab79-2c8c07707bf9@cp-calendar
 DESCRIPTION:Instructor: Ally C\nStudio: South Boulder\nSpots: 54 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261020T131500Z
 DTEND:20261020T141500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:fd53f376-069a-53fa-b47f-b9ba3ee25ec8@cp-calendar
 DESCRIPTION:Instructor: Laramie R\nStudio: South Boulder\nSpots: 40 availa
- ble of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261020T133000Z
 DTEND:20261020T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:4a3cc64b-1716-504d-b931-0b1086503bab@cp-calendar
 DESCRIPTION:Instructor: Ally C\nStudio: South Boulder\nSpots: 54 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261020T150000Z
 DTEND:20261020T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:54abe5fe-7f5e-5bb2-9515-98c82305cad3@cp-calendar
 DESCRIPTION:Instructor: Justin S\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261020T153000Z
 DTEND:20261020T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:52b6bfaf-d2b5-59f9-b67f-cafe36ee92e3@cp-calendar
 DESCRIPTION:Instructor: Megan O\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261020T170000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:989c612b-7516-58fd-9bda-7b9c57ad2023@cp-calendar
 DESCRIPTION:Instructor: Emerson M\nStudio: South Boulder\nSpots: 53 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — South Boulder
 DTSTART:20261020T173000Z
 DTEND:20261020T183000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:cdec7ea6-ed4a-5e80-8cc4-316f4c3d3ce8@cp-calendar
 DESCRIPTION:Instructor: Riley C\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-1/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261020T181500Z
 DTEND:20261020T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:f9d12039-9130-5c4d-be9e-c1752c9c3625@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: South Boulder\nSpots: 50 available 
- of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261020T211500Z
 DTEND:20261020T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:f0407050-ae8a-5603-badf-45b99dfb2980@cp-calendar
 DESCRIPTION:Instructor: Rachel M\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261020T214500Z
 DTEND:20261020T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:11e01e9f-e963-5219-a4b5-4808bf8b55cd@cp-calendar
 DESCRIPTION:Instructor: Alex Me\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261020T223000Z
 DTEND:20261020T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:ea6a69fb-2e9d-5f94-9ad9-d82a62b5e013@cp-calendar
 DESCRIPTION:Instructor: Alex Y\nStudio: South Boulder\nSpots: 53 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261020T234500Z
 DTEND:20261021T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:3b25b08c-b8d0-5eb1-bb30-d139dcdcdec9@cp-calendar
 DESCRIPTION:Instructor: Mekenzie K\nStudio: South Boulder\nSpots: 54 avail
- able of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261021T011500Z
 DTEND:20261021T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:6226f34a-3084-5569-a6ce-4d8cc8191986@cp-calendar
 DESCRIPTION:Instructor: Stella H\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261021T120000Z
 DTEND:20261021T130000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:af1a3f82-6299-5b07-bcdc-e734a944356a@cp-calendar
 DESCRIPTION:Instructor: Laramie R\nStudio: South Boulder\nSpots: 40 availa
- ble of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261021T131500Z
 DTEND:20261021T141500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:b678c979-33c7-5a4a-aad8-c876814a3f1f@cp-calendar
 DESCRIPTION:Instructor: Ashley L\nStudio: South Boulder\nSpots: 40 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261021T133000Z
 DTEND:20261021T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:b75716fa-be75-5550-a8d2-03b3df71190b@cp-calendar
 DESCRIPTION:Instructor: Lulu L\nStudio: South Boulder\nSpots: 53 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261021T150000Z
 DTEND:20261021T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:f34521b5-0f0f-5dad-8f89-f29db3c1deeb@cp-calendar
 DESCRIPTION:Instructor: Mekenzie K\nStudio: South Boulder\nSpots: 54 avail
- able of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261021T153000Z
 DTEND:20261021T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:eedb7ca8-db3c-58d3-86b9-61089dc75a25@cp-calendar
 DESCRIPTION:Instructor: Alex Me\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261021T170000Z
 DTEND:20261021T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d6523510-7253-55bf-ac3d-cfb6ece57bb8@cp-calendar
 DESCRIPTION:Instructor: Kaitlyn R\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261021T173000Z
 DTEND:20261021T183000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:84993c86-3c6b-52a3-9db4-d7c36cbd9150@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: South Boulder\nSpots: 40 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261021T181500Z
 DTEND:20261021T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:6939222a-0022-5b7a-9909-c78616460171@cp-calendar
 DESCRIPTION:Instructor: Monica M\nStudio: South Boulder\nSpots: 50 availab
- le of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CoreRestore — South Boulder
 DTSTART:20261021T193000Z
 DTEND:20261021T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:4cb27df5-74ad-5dbb-85b4-7876a8c66bbb@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corerestore/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261021T193000Z
 DTEND:20261021T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:a69199b5-27cc-5def-9ae9-2aedfe709842@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: South Boulder\nSpots: 39 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261021T211500Z
 DTEND:20261021T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:dadbccc4-35ec-5f5f-a8f1-f61c83d3d15d@cp-calendar
 DESCRIPTION:Instructor: Alex Y\nStudio: South Boulder\nSpots: 54 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261021T214500Z
 DTEND:20261021T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:97144f48-1039-5c7c-8fff-b814a0f8b024@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: South Boulder\nSpots: 40 avai
- lable of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTa
- p the event link to check this studio's live schedule on corepoweryoga.com
- .
+ lable of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261021T223000Z
 DTEND:20261021T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:2e668c7b-fa33-5792-b59c-77f121b351c0@cp-calendar
 DESCRIPTION:Instructor: Kaitlin C\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261021T231500Z
 DTEND:20261022T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:67f4a16e-2e8d-5b22-8e36-819a2a1f4808@cp-calendar
 DESCRIPTION:Instructor: Ashly K\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261021T234500Z
 DTEND:20261022T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:f65a97f2-4034-5253-9c1c-191aa10e287d@cp-calendar
 DESCRIPTION:Instructor: Olivia W\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261022T003000Z
 DTEND:20261022T013000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:fab73b90-7e2c-593f-abc6-8da06959dc4c@cp-calendar
 DESCRIPTION:Instructor: Megan O\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261022T011500Z
 DTEND:20261022T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:8f77ed2a-86cf-5e5b-8659-5e85fb7f0696@cp-calendar
 DESCRIPTION:Instructor: Olivia W\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — South Boulder
 DTSTART:20261022T014500Z
 DTEND:20261022T024500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:07be0b67-0601-571f-8930-63ea5f5140e4@cp-calendar
 DESCRIPTION:Instructor: Jyll L\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/hot-power-fusion/6c
- 4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261022T120000Z
 DTEND:20261022T130000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:f8fcb542-1482-5a2a-94e2-df45306bb646@cp-calendar
 DESCRIPTION:Instructor: Will F\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261022T121500Z
 DTEND:20261022T131500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:05724edc-4777-56e8-80f5-9076a669d3b6@cp-calendar
 DESCRIPTION:Instructor: Gabrielle R\nStudio: South Boulder\nSpots: 54 avai
- lable of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTa
- p the event link to check this studio's live schedule on corepoweryoga.com
- .
+ lable of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261022T133000Z
 DTEND:20261022T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:375ad6c8-bf69-5bd0-aa83-fa3f977f2ef7@cp-calendar
 DESCRIPTION:Instructor: Emily L\nStudio: South Boulder\nSpots: 54 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261022T150000Z
 DTEND:20261022T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:3deabd7a-27be-53cb-85ad-bcb80b5e4903@cp-calendar
 DESCRIPTION:Instructor: Cerrissa K\nStudio: South Boulder\nSpots: 54 avail
- able of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261022T153000Z
 DTEND:20261022T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:25227f73-b709-5e5a-b2ae-f481a402ffb6@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261022T170000Z
 DTEND:20261022T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:fa371673-0244-5ab0-8ce1-d837456e6f4a@cp-calendar
 DESCRIPTION:Instructor: Emerson M\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261022T173000Z
 DTEND:20261022T183000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:0bd458d2-97de-5b47-b92a-912b491a73cc@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261022T181500Z
 DTEND:20261022T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:bae7d764-107c-5c9d-9115-0df873bd1267@cp-calendar
 DESCRIPTION:Instructor: Alex Y\nStudio: South Boulder\nSpots: 50 available
-  of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261022T193000Z
 DTEND:20261022T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:2dc76ca2-0283-5aba-933c-0b168e9b31a7@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261022T211500Z
 DTEND:20261022T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:860ada2b-ff1e-50d4-9753-81723b691425@cp-calendar
 DESCRIPTION:Instructor: Charlotte N\nStudio: South Boulder\nSpots: 54 avai
- lable of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTa
- p the event link to check this studio's live schedule on corepoweryoga.com
- .
+ lable of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261022T214500Z
 DTEND:20261022T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:4f7aaee2-50be-5999-a505-08cb0d6c573a@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261022T223000Z
 DTEND:20261022T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d6b042b2-8440-599c-9ec4-d313f17557ae@cp-calendar
 DESCRIPTION:Instructor: Gracynn B\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261022T234500Z
 DTEND:20261023T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:c81ee49b-d5ea-5d85-a57f-04a5250db84b@cp-calendar
 DESCRIPTION:Instructor: Greg M\nStudio: South Boulder\nSpots: 52 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261023T011500Z
 DTEND:20261023T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:8b316c7e-7202-5e4d-9e97-0ac3e5a80f5f@cp-calendar
 DESCRIPTION:Instructor: Sylvie W\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261023T030000Z
 DTEND:20261023T040000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:6ad6271a-d372-5c23-8d58-68e418c03ce5@cp-calendar
 DESCRIPTION:Instructor: Sylvie W\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261023T121500Z
 DTEND:20261023T131500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:ee01e31c-6248-5eb4-8501-c821fe7ad6a3@cp-calendar
 DESCRIPTION:Instructor: Justin S\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261023T133000Z
 DTEND:20261023T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:5917f770-481a-54a6-aa5f-845cb5c5d298@cp-calendar
 DESCRIPTION:Instructor: Matilde L\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261023T133000Z
 DTEND:20261023T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:8758fa83-d48e-5ae6-bfc5-0a4c9322878e@cp-calendar
 DESCRIPTION:Instructor: Jennifer J\nStudio: South Boulder\nSpots: 40 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261023T150000Z
 DTEND:20261023T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:1fad0f28-b492-512a-af9a-fe41e3b51437@cp-calendar
 DESCRIPTION:Instructor: Matilde L\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261023T151500Z
 DTEND:20261023T161500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:816e8d47-64ac-5fa8-8f6d-b731c37e36fd@cp-calendar
 DESCRIPTION:Instructor: Jennifer J\nStudio: South Boulder\nSpots: 40 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — South Boulder
 DTSTART:20261023T164500Z
 DTEND:20261023T174500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:9520f143-6a96-5a88-a15e-b38ae8705e82@cp-calendar
 DESCRIPTION:Instructor: Jennifer J\nStudio: South Boulder\nSpots: 40 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/hot-power-fusion/6c
- 4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261023T170000Z
 DTEND:20261023T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d98f5264-3169-5ae6-99ed-85a13dbc95af@cp-calendar
 DESCRIPTION:Instructor: Lulu L\nStudio: South Boulder\nSpots: 54 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261023T181500Z
 DTEND:20261023T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:c8dee4e5-63ad-5d3e-a992-544852dc6a26@cp-calendar
 DESCRIPTION:Instructor: Monica M\nStudio: South Boulder\nSpots: 50 availab
- le of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261023T193000Z
 DTEND:20261023T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:cde93e65-f583-56bd-81ab-4982f22e5424@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 39 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261023T211500Z
 DTEND:20261023T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:0e41094d-0b8f-5520-a257-9f61c71a69f6@cp-calendar
 DESCRIPTION:Instructor: Laura L\nStudio: South Boulder\nSpots: 54 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261023T213000Z
 DTEND:20261023T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:5fd7bb0b-5e3e-5eae-97e4-955169e5bcd2@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261023T223000Z
 DTEND:20261023T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:71968042-6639-530e-a27f-6b19a38141ca@cp-calendar
 DESCRIPTION:Instructor: Gracynn B\nStudio: South Boulder\nSpots: 53 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261023T231500Z
 DTEND:20261024T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d730275e-11b2-5bef-a123-2693fa86844f@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261023T234500Z
 DTEND:20261024T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:edd6ea8a-1e1c-5daf-9766-b2b16e97bba2@cp-calendar
 DESCRIPTION:Instructor: Mekenzie K\nStudio: South Boulder\nSpots: 54 avail
- able of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261024T003000Z
 DTEND:20261024T013000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:68da677f-c5cd-5b85-879d-68e319279174@cp-calendar
 DESCRIPTION:Instructor: Will F\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261024T011500Z
 DTEND:20261024T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:8bc89197-62a6-59ed-a4a1-3cf92c6c787d@cp-calendar
 DESCRIPTION:Instructor: Stella H\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261024T140000Z
 DTEND:20261024T150000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:10ef29c9-4af5-5478-9a11-b09538b57a2e@cp-calendar
 DESCRIPTION:Instructor: Virginia S\nStudio: South Boulder\nSpots: 54 avail
- able of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261024T150000Z
 DTEND:20261024T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:f9b7239a-c8fb-5a9a-99fe-b4a8bc18efda@cp-calendar
 DESCRIPTION:Instructor: Will F\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261024T153000Z
 DTEND:20261024T164500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:b610664c-0b27-5888-b90b-9b944399d8f8@cp-calendar
 DESCRIPTION:Instructor: Virginia S\nStudio: South Boulder\nSpots: 50 avail
- able of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 3 — South Boulder
 DTSTART:20261024T173000Z
 DTEND:20261024T184500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:9955ef64-1a5e-562d-b7bf-26095c1e243c@cp-calendar
 DESCRIPTION:Instructor: Jennifer B\nStudio: South Boulder\nSpots: 30 avail
- able of 30\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 30\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-1/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261024T183000Z
 DTEND:20261024T193000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:97258805-e463-5534-a5c4-8614127dfe9f@cp-calendar
 DESCRIPTION:Instructor: Laura L\nStudio: South Boulder\nSpots: 54 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261024T191500Z
 DTEND:20261024T201500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:97f4a2f8-b0e8-5cef-b5fc-5c8f1563b2b7@cp-calendar
 DESCRIPTION:Instructor: Terrie M\nStudio: South Boulder\nSpots: 40 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261024T200000Z
 DTEND:20261024T210000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:69854f36-ab29-5ab8-b83f-d1ace6eaa9de@cp-calendar
 DESCRIPTION:Instructor: Laura L\nStudio: South Boulder\nSpots: 54 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Yoga — South Boulder
 DTSTART:20261024T210000Z
 DTEND:20261024T220000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:526b8390-d711-5b53-9025-4bfb6b399570@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2364,37 +2362,38 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261024T231500Z
 DTEND:20261025T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:a57c31e1-e603-5667-83d2-9973f6b9f855@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — South Boulder
 DTSTART:20261025T010000Z
 DTEND:20261025T020000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:79405206-b0b6-5723-a6a0-03bcbf22e7d8@cp-calendar
 DESCRIPTION:Instructor: John P\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-1/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Yoga — South Boulder
 DTSTART:20261025T020000Z
 DTEND:20261025T030000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:446bd5ba-a328-51a8-ac71-531907f44f94@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: South Boulder\nSpots: 51 available o
- f 51\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the e
- vent link to check this studio's live schedule on corepoweryoga.com.
+ f 51\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the e
+ vent link\, then pick this studio and date\, to check the live schedule on
+  corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2402,76 +2401,77 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261025T150000Z
 DTEND:20261025T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:9db75cc0-c15a-5881-880f-ad6b76b32915@cp-calendar
 DESCRIPTION:Instructor: Alex Me\nStudio: South Boulder\nSpots: 35 availabl
- e of 35\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 35\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261025T153000Z
 DTEND:20261025T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:8d9119d2-ede4-5ace-9da7-0a4c43cad10f@cp-calendar
 DESCRIPTION:Instructor: Greg M\nStudio: South Boulder\nSpots: 53 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261025T170000Z
 DTEND:20261025T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:14f1e177-64d7-530f-8aee-e1df3bd78075@cp-calendar
 DESCRIPTION:Instructor: Alex Me\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261025T180000Z
 DTEND:20261025T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:54b6c4a6-f297-5bc3-8546-f8712a618013@cp-calendar
 DESCRIPTION:Instructor: Gracynn B\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261025T191500Z
 DTEND:20261025T201500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:2b8d2785-4d8a-5084-a3dd-387235793840@cp-calendar
 DESCRIPTION:Instructor: Carly B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Yoga — South Boulder
 DTSTART:20261025T210000Z
 DTEND:20261025T220000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:fc0871dc-be2c-5433-a989-a406c9cad5be@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2479,286 +2479,286 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261025T231500Z
 DTEND:20261026T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:457f641f-bb5a-58db-b881-99029d1df08f@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: South Boulder\nSpots: 40 available
-  of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261026T000000Z
 DTEND:20261026T010000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:37591156-9313-5b2f-89af-f03412ba241b@cp-calendar
 DESCRIPTION:Instructor: Kaley M\nStudio: South Boulder\nSpots: 54 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — South Boulder
 DTSTART:20261026T013000Z
 DTEND:20261026T023000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:dcd0b171-7195-54e5-a145-cd5d5aeee8dd@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: South Boulder\nSpots: 40 available o
- f 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the e
- vent link to check this studio's live schedule on corepoweryoga.com.
+ f 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the e
+ vent link\, then pick this studio and date\, to check the live schedule on
+  corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/hot-power-fusion/6c
- 4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261026T013000Z
 DTEND:20261026T023000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:c3c91f2e-2dbe-5c8e-b42b-0407a7d73c3c@cp-calendar
 DESCRIPTION:Instructor: Stella H\nStudio: South Boulder\nSpots: 40 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261026T120000Z
 DTEND:20261026T130000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:fff515d8-8931-58db-a3a8-dc00896f40a2@cp-calendar
 DESCRIPTION:Instructor: Jessica S\nStudio: South Boulder\nSpots: 40 availa
- ble of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261026T121500Z
 DTEND:20261026T131500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:da90a03c-e330-5dcb-be71-e7922db0d5da@cp-calendar
 DESCRIPTION:Instructor: Kaitlyn R\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261026T133000Z
 DTEND:20261026T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:3c21a8a7-d06a-5032-9d19-924c59651771@cp-calendar
 DESCRIPTION:Instructor: Jessica S\nStudio: South Boulder\nSpots: 40 availa
- ble of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261026T133000Z
 DTEND:20261026T143000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d39dd488-be92-5950-bde0-47d31a0f6f53@cp-calendar
 DESCRIPTION:Instructor: Emma M\nStudio: South Boulder\nSpots: 54 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261026T150000Z
 DTEND:20261026T160000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:d36cb58a-dfc3-57fd-a055-3dd4b43fdbad@cp-calendar
 DESCRIPTION:Instructor: Lulu L\nStudio: South Boulder\nSpots: 54 available
-  of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the
-  event link to check this studio's live schedule on corepoweryoga.com.
+  of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261026T153000Z
 DTEND:20261026T163000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:2b068d64-193b-54fd-a3ab-3802cf1cded4@cp-calendar
 DESCRIPTION:Instructor: Devan A\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261026T170000Z
 DTEND:20261026T180000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:f3b901ca-b23f-5e97-8891-80e722ef4e61@cp-calendar
 DESCRIPTION:Instructor: Devan A\nStudio: South Boulder\nSpots: 54 availabl
- e of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261026T173000Z
 DTEND:20261026T183000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:0911c688-acb0-51e5-9c86-fdd4c401c965@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: South Boulder\nSpots: 40 availab
- le of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — South Boulder
 DTSTART:20261026T181500Z
 DTEND:20261026T190000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:56f41781-8517-509e-af68-19d07aad4911@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: South Boulder\nSpots: 50 available 
- of 50\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 50\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-strength-
- x/6c4c5bd4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CoreRestore — South Boulder
 DTSTART:20261026T193000Z
 DTEND:20261026T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:1469c3f1-6065-5e30-8c9f-3613f6753c24@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: South Boulder\nSpots: 54 availab
- le of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap t
- he event link to check this studio's live schedule on corepoweryoga.com.
+ le of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corerestore/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261026T193000Z
 DTEND:20261026T203000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:fa7e7ae7-00b4-534e-b95b-30ef6d073d50@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: South Boulder\nSpots: 40 available 
- of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261026T211500Z
 DTEND:20261026T221500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:c18547ce-73a4-5a87-99c6-6a5f1cd14ac3@cp-calendar
 DESCRIPTION:Instructor: Camille B\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261026T214500Z
 DTEND:20261026T224500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:8297f34e-4ae4-54b1-9ab3-8c340edae134@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: South Boulder\nSpots: 40 availabl
- e of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap th
- e event link to check this studio's live schedule on corepoweryoga.com.
+ e of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261026T223000Z
 DTEND:20261026T233000Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:ab04b55d-9a29-5c1d-9974-186c2edf40e8@cp-calendar
 DESCRIPTION:Instructor: Kaitlin C\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — South Boulder
 DTSTART:20261026T231500Z
 DTEND:20261027T001500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:aa8139c6-9b85-55f5-9a72-92e38e9f7f82@cp-calendar
 DESCRIPTION:Instructor: Jennifer B\nStudio: South Boulder\nSpots: 40 avail
- able of 40\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 40\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corepower-2/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261026T234500Z
 DTEND:20261027T004500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:07ad85dc-029c-5b79-bab5-4a0e227b2a4e@cp-calendar
 DESCRIPTION:Instructor: Sam L\nStudio: South Boulder\nSpots: 54 available 
- of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap the 
- event link to check this studio's live schedule on corepoweryoga.com.
+ of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — South Boulder
 DTSTART:20261027T011500Z
 DTEND:20261027T021500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:ab210885-1d6a-5ba6-adca-9d9e5e40da3c@cp-calendar
 DESCRIPTION:Instructor: Matilde L\nStudio: South Boulder\nSpots: 54 availa
- ble of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap 
- the event link to check this studio's live schedule on corepoweryoga.com.
+ ble of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/yoga-sculpt/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CoreRestore — South Boulder
 DTSTART:20261027T014500Z
 DTEND:20261027T024500Z
-DTSTAMP:20261013T020632Z
+DTSTAMP:20261013T021656Z
 UID:6a23abe3-7e26-5919-932d-ea9048e97a08@cp-calendar
 DESCRIPTION:Instructor: Adrianna H\nStudio: South Boulder\nSpots: 54 avail
- able of 54\n\nSynced: Oct 13\, 2:06 AM UTC (2026-10-13T02:06:32Z UTC)\nTap
-  the event link to check this studio's live schedule on corepoweryoga.com.
+ able of 54\n\nSynced: Oct 13\, 2:16 AM UTC (2026-10-13T02:16:56Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:South Boulder
-URL:https://www.corepoweryoga.com/yoga-fitness-classes/corerestore/6c4c5bd
- 4-d87d-42c6-931a-45865fc57a37
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 END:VCALENDAR
