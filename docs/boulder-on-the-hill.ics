@@ -8,10 +8,10 @@ X-WR-CALDESC:Auto-synced class schedule for CorePower Yoga Boulder on the
 X-WR-CALNAME:CorePower Yoga — Boulder on the Hill
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-SUMMARY:📅 Boulder on the Hill feed last generated Oct 23\, 2:54 AM UTC
+SUMMARY:📅 Boulder on the Hill feed last generated Oct 23\, 8:59 AM UTC
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:sync-banner-boulder-on-the-hill-2026-10-23@cp-calendar
 DESCRIPTION:This feed is regenerated on a schedule and Google Calendar may
   take hours to re-fetch it. Open a class's link to confirm it against the 
@@ -22,10 +22,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261023T130000Z
 DTEND:20261023T140000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:8c975a8c-4712-5a79-a330-f49e1d6a8072@cp-calendar
-DESCRIPTION:Instructor: Kaya L\nStudio: Boulder on the Hill\nSpots: 28 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+DESCRIPTION:Instructor: Kaya L\nStudio: Boulder on the Hill\nSpots: 30 ava
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -35,10 +35,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261023T143000Z
 DTEND:20261023T153000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:5ac4d84d-10ff-5ae7-9032-c8a7b20bb564@cp-calendar
-DESCRIPTION:Instructor: Sienna P\nStudio: Boulder on the Hill\nSpots: 31 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+DESCRIPTION:Instructor: Sienna P\nStudio: Boulder on the Hill\nSpots: 35 a
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -48,10 +48,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261023T160000Z
 DTEND:20261023T170000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:d1944e83-e47b-5813-bdfb-0cf08b5a4241@cp-calendar
 DESCRIPTION:Instructor: Olivia W\nStudio: Boulder on the Hill\nSpots: 33 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -61,10 +61,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261023T173000Z
 DTEND:20261023T183000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:dba2b94c-af12-5fb0-871c-238b3be9edbe@cp-calendar
-DESCRIPTION:Instructor: Olivia W\nStudio: Boulder on the Hill\nSpots: 30 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+DESCRIPTION:Instructor: Olivia W\nStudio: Boulder on the Hill\nSpots: 31 a
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -74,10 +74,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261023T200000Z
 DTEND:20261023T210000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:88d95714-2f2d-54e1-9c69-fe0b27515359@cp-calendar
-DESCRIPTION:Instructor: Maya S\nStudio: Boulder on the Hill\nSpots: 21 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+DESCRIPTION:Instructor: Maya S\nStudio: Boulder on the Hill\nSpots: 18 ava
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -87,10 +87,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261024T143000Z
 DTEND:20261024T153000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:a40672bd-9526-5eff-8091-8de52b6c810d@cp-calendar
 DESCRIPTION:Instructor: Olivia W\nStudio: Boulder on the Hill\nSpots: 32 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -100,10 +100,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261024T154500Z
 DTEND:20261024T164500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:088e703a-66f6-5f82-8b5b-3f307cb1485f@cp-calendar
 DESCRIPTION:Instructor: Gemma J\nStudio: Boulder on the Hill\nSpots: 25 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -113,10 +113,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — Boulder on the Hill
 DTSTART:20261024T170000Z
 DTEND:20261024T180000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:4f802d25-6378-53ba-bfb9-d75799665c5b@cp-calendar
 DESCRIPTION:Instructor: John P\nStudio: Boulder on the Hill\nSpots: 39 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -126,10 +126,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261024T193000Z
 DTEND:20261024T203000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:538148e6-a2a5-5d37-abe3-8045396231c7@cp-calendar
 DESCRIPTION:Instructor: Eileen T\nStudio: Boulder on the Hill\nSpots: 38 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -139,10 +139,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261025T143000Z
 DTEND:20261025T153000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:6876dcd4-f290-5b2d-8238-88722f9bc594@cp-calendar
 DESCRIPTION:Instructor: Danielle M\nStudio: Boulder on the Hill\nSpots: 39
-  available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC
+  available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC
  )\nTap the event link\, then pick this studio and date\, to check the live
   schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -152,10 +152,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261025T154500Z
 DTEND:20261025T164500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:62f5e62b-c125-59af-9f03-fa253c6460af@cp-calendar
-DESCRIPTION:Instructor: Ally C\nStudio: Boulder on the Hill\nSpots: 34 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+DESCRIPTION:Instructor: Ally C\nStudio: Boulder on the Hill\nSpots: 33 ava
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -165,10 +165,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — Boulder on the Hill
 DTSTART:20261025T170000Z
 DTEND:20261025T180000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:10bd4b50-5e21-5a19-ab59-de822ac2dc66@cp-calendar
 DESCRIPTION:Instructor: Riley C\nStudio: Boulder on the Hill\nSpots: 38 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -178,10 +178,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261025T193000Z
 DTEND:20261025T203000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:8da70295-5544-5bae-9013-e79683aa3503@cp-calendar
 DESCRIPTION:Instructor: Sienna P\nStudio: Boulder on the Hill\nSpots: 35 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -191,10 +191,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261025T210000Z
 DTEND:20261025T220000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:4fe1d200-bbab-582a-81ee-5e83ec7fc6df@cp-calendar
 DESCRIPTION:Instructor: Sienna P\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -204,10 +204,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261025T223000Z
 DTEND:20261025T233000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:56a84738-55a0-502c-b96b-b2d998c6eeeb@cp-calendar
 DESCRIPTION:Instructor: Kaya L\nStudio: Boulder on the Hill\nSpots: 37 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -217,10 +217,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — Boulder on the Hill
 DTSTART:20261026T000000Z
 DTEND:20261026T010000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:25102b12-85e9-5e2b-a070-6750f6a8bd3d@cp-calendar
-DESCRIPTION:Instructor: Matilde L\nStudio: Boulder on the Hill\nSpots: 33 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+DESCRIPTION:Instructor: Matilde L\nStudio: Boulder on the Hill\nSpots: 32 
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -230,10 +230,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261026T013000Z
 DTEND:20261026T023000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:980de223-829b-5be6-be5f-4eb182514368@cp-calendar
 DESCRIPTION:Instructor: Danielle M\nStudio: Boulder on the Hill\nSpots: 38
-  available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC
+  available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC
  )\nTap the event link\, then pick this studio and date\, to check the live
   schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -243,10 +243,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — Boulder on the Hill
 DTSTART:20261026T114500Z
 DTEND:20261026T124500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:18605c87-bbaa-53b4-85d5-a4f9861bf613@cp-calendar
 DESCRIPTION:Instructor: Devan A\nStudio: Boulder on the Hill\nSpots: 39 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -256,10 +256,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261026T130000Z
 DTEND:20261026T140000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:fd053c07-3a98-53c3-a1d6-bca728f5a873@cp-calendar
 DESCRIPTION:Instructor: Devan A\nStudio: Boulder on the Hill\nSpots: 38 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -269,10 +269,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261026T143000Z
 DTEND:20261026T153000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:136add28-f328-5be5-bd2d-d40393c80ea8@cp-calendar
-DESCRIPTION:Instructor: Kaitlin C\nStudio: Boulder on the Hill\nSpots: 37 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+DESCRIPTION:Instructor: Kaitlin C\nStudio: Boulder on the Hill\nSpots: 36 
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -282,10 +282,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261026T173000Z
 DTEND:20261026T183000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:94cb8c4b-aa7e-5bdc-9585-6dc5e38a56ef@cp-calendar
 DESCRIPTION:Instructor: Maya S\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -295,10 +295,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261026T190000Z
 DTEND:20261026T194500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:e860614f-7700-5f35-a2e0-178d96c02fe6@cp-calendar
 DESCRIPTION:Instructor: Tate B\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -308,10 +308,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261026T200000Z
 DTEND:20261026T210000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:b0ebed25-02f3-549b-a43d-b28537f55a44@cp-calendar
 DESCRIPTION:Instructor: Phoebe W\nStudio: Boulder on the Hill\nSpots: 36 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -321,10 +321,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261026T213000Z
 DTEND:20261026T223000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:8f524a7e-0cf3-5260-b9d3-227adb411e13@cp-calendar
 DESCRIPTION:Instructor: Sydney B\nStudio: Boulder on the Hill\nSpots: 37 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -334,10 +334,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261026T230000Z
 DTEND:20261027T000000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:595f8494-937b-57b2-bf09-1d5f9f084bc6@cp-calendar
 DESCRIPTION:Instructor: Matilde L\nStudio: Boulder on the Hill\nSpots: 39 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -347,10 +347,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261027T003000Z
 DTEND:20261027T013000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:6cdec033-ad0c-5220-a06a-e5a2569eb70e@cp-calendar
 DESCRIPTION:Instructor: Phoebe W\nStudio: Boulder on the Hill\nSpots: 39 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -360,10 +360,10 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — Boulder on the Hill
 DTSTART:20261027T020000Z
 DTEND:20261027T030000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:055cd219-dc4d-5103-818e-7bd33381410c@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: Boulder on the Hill\nSpots: 40 avail
- able of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nTap
+ able of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nTap
   the event link\, then pick this studio and date\, to check the live sched
  ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -373,10 +373,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261027T130000Z
 DTEND:20261027T140000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:0315cea9-935b-542f-960f-209b553f9394@cp-calendar
-DESCRIPTION:Instructor: Sophie E\nStudio: Boulder on the Hill\nSpots: 39 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+DESCRIPTION:Instructor: Sophie E\nStudio: Boulder on the Hill\nSpots: 38 a
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -386,10 +386,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261027T143000Z
 DTEND:20261027T153000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:5675b5e2-46e1-54ea-93e0-92fb8885a646@cp-calendar
 DESCRIPTION:Instructor: Dylan L\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -399,10 +399,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261027T160000Z
 DTEND:20261027T170000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:ad5dc82f-2c66-538a-bd10-5212bd47433e@cp-calendar
 DESCRIPTION:Instructor: Clare F\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -412,10 +412,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261027T173000Z
 DTEND:20261027T183000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:c32f195a-cef6-5ac9-a18d-9aeb01755a4c@cp-calendar
 DESCRIPTION:Instructor: Gemma J\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -425,10 +425,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261027T200000Z
 DTEND:20261027T210000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:0cedde8b-d04b-54a6-a379-19ac38d30ea7@cp-calendar
 DESCRIPTION:Instructor: Eileen T\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -438,10 +438,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261027T213000Z
 DTEND:20261027T223000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:4ebf9168-5a28-563a-996e-73bb723a1bc9@cp-calendar
 DESCRIPTION:Instructor: Eileen T\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -451,10 +451,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261027T230000Z
 DTEND:20261028T000000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:85fe2bb9-bc87-5cdf-b65e-7eb5e09ee3b4@cp-calendar
 DESCRIPTION:Instructor: Drew H\nStudio: Boulder on the Hill\nSpots: 37 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -464,10 +464,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — Boulder on the Hill
 DTSTART:20261028T004500Z
 DTEND:20261028T014500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:c15787b8-0055-56ef-b1fc-6be9fe67f85e@cp-calendar
 DESCRIPTION:Instructor: Teresa D\nStudio: Boulder on the Hill\nSpots: 39 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -477,10 +477,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261028T130000Z
 DTEND:20261028T140000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:df01e659-0c67-5132-8362-0e84ccf7955d@cp-calendar
 DESCRIPTION:Instructor: Maya S\nStudio: Boulder on the Hill\nSpots: 37 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -490,10 +490,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261028T143000Z
 DTEND:20261028T153000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:ca52f040-9fb2-5696-81ed-ccc731a6f650@cp-calendar
-DESCRIPTION:Instructor: Kaley M\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+DESCRIPTION:Instructor: Kaley M\nStudio: Boulder on the Hill\nSpots: 39 av
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -503,10 +503,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — Boulder on the Hill
 DTSTART:20261028T160000Z
 DTEND:20261028T170000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:0fe21ddd-b95e-5ff6-bb0d-080f0902fc7a@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: Boulder on the Hill\nSpots: 39 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -516,10 +516,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261028T173000Z
 DTEND:20261028T183000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:a0128cad-dfc2-5c1d-957c-5dad2b6fece5@cp-calendar
 DESCRIPTION:Instructor: Kaitlin C\nStudio: Boulder on the Hill\nSpots: 39 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -529,10 +529,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261028T190000Z
 DTEND:20261028T194500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:afe03f86-3642-5578-b02f-e8a23978da6a@cp-calendar
 DESCRIPTION:Instructor: Tate B\nStudio: Boulder on the Hill\nSpots: 39 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -542,10 +542,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261028T213000Z
 DTEND:20261028T223000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:ba751eef-ce28-5e83-a504-d7f1ad16b4d4@cp-calendar
 DESCRIPTION:Instructor: Sammy S\nStudio: Boulder on the Hill\nSpots: 38 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -555,10 +555,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261029T020000Z
 DTEND:20261029T030000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:1b9c56ab-3faf-5f34-8d13-1426b3ab609b@cp-calendar
 DESCRIPTION:Instructor: Sophia W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -568,10 +568,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261029T130000Z
 DTEND:20261029T140000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:b9923eeb-ee39-5e6a-929a-797ab13c5376@cp-calendar
-DESCRIPTION:Instructor: Tumra M\nStudio: Boulder on the Hill\nSpots: 39 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+DESCRIPTION:Instructor: Tumra M\nStudio: Boulder on the Hill\nSpots: 38 av
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -581,10 +581,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261029T143000Z
 DTEND:20261029T153000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:43a93159-bd8a-5d9d-a1cc-0fea8a29b785@cp-calendar
 DESCRIPTION:Instructor: Tumra M\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -594,10 +594,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261029T173000Z
 DTEND:20261029T183000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:b868574c-6290-5ff1-90ee-bebca098d1f1@cp-calendar
 DESCRIPTION:Instructor: Emily L\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -607,10 +607,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261029T200000Z
 DTEND:20261029T210000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:34715737-1a18-5d59-bf02-3b4e7d5351ef@cp-calendar
 DESCRIPTION:Instructor: Dylan L\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -620,10 +620,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261029T213000Z
 DTEND:20261029T223000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:a5380bbf-f237-59b9-98e4-e32898b544ec@cp-calendar
 DESCRIPTION:Instructor: Abigail L\nStudio: Boulder on the Hill\nSpots: 40 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -633,10 +633,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261030T003000Z
 DTEND:20261030T013000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:3d738054-d5e5-5aa2-9126-2451320097b1@cp-calendar
 DESCRIPTION:Instructor: Abigail L\nStudio: Boulder on the Hill\nSpots: 40 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -646,10 +646,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261030T130000Z
 DTEND:20261030T140000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:01e5b467-49f1-5b60-b7de-578be587abf1@cp-calendar
 DESCRIPTION:Instructor: Kaya L\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -659,10 +659,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261030T143000Z
 DTEND:20261030T153000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:e22148ff-817b-5c98-aa68-8b467b7f5c97@cp-calendar
-DESCRIPTION:Instructor: Sammy S\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+DESCRIPTION:Instructor: Sammy S\nStudio: Boulder on the Hill\nSpots: 39 av
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -672,10 +672,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261030T160000Z
 DTEND:20261030T170000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:9b8a1cb8-5484-5af9-8478-0aaa4c869f9c@cp-calendar
 DESCRIPTION:Instructor: Sammy S\nStudio: Boulder on the Hill\nSpots: 39 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -685,10 +685,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261030T173000Z
 DTEND:20261030T183000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:e3a32a4d-67b1-58d7-9282-ee1bbcd0f548@cp-calendar
 DESCRIPTION:Instructor: Olivia W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -698,10 +698,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261030T200000Z
 DTEND:20261030T210000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:7e2bdec2-97e3-5f7a-86f9-80d5c5116e3f@cp-calendar
 DESCRIPTION:Instructor: Sydney B\nStudio: Boulder on the Hill\nSpots: 39 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -711,10 +711,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261030T230000Z
 DTEND:20261031T000000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:2134e491-8884-5d2b-abd5-f033b6df55db@cp-calendar
 DESCRIPTION:Instructor: Gabrielle R\nStudio: Boulder on the Hill\nSpots: 4
- 0 available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UT
+ 0 available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UT
  C)\nTap the event link\, then pick this studio and date\, to check the liv
  e schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -724,10 +724,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261031T143000Z
 DTEND:20261031T153000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:78f105cc-a68f-5c61-bcd3-c5f85310d736@cp-calendar
 DESCRIPTION:Instructor: Olivia W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -737,10 +737,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261031T154500Z
 DTEND:20261031T164500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:3e8c7dfb-b6ae-5834-a65b-d6e3498daa99@cp-calendar
 DESCRIPTION:Instructor: Gemma J\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -750,10 +750,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — Boulder on the Hill
 DTSTART:20261031T170000Z
 DTEND:20261031T180000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:2d10a140-b3cc-557f-adfe-f2c0693220f3@cp-calendar
 DESCRIPTION:Instructor: John P\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -763,10 +763,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261031T193000Z
 DTEND:20261031T203000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:591062be-c80f-5202-9335-b4a9910b0e71@cp-calendar
 DESCRIPTION:Instructor: Emily L\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -776,10 +776,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261101T153000Z
 DTEND:20261101T163000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:df8973c6-dc54-5001-9280-f96bb5c0d7ba@cp-calendar
 DESCRIPTION:Instructor: Danielle M\nStudio: Boulder on the Hill\nSpots: 40
-  available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC
+  available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC
  )\nTap the event link\, then pick this studio and date\, to check the live
   schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -789,10 +789,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261101T164500Z
 DTEND:20261101T174500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:ffb09a0e-9f9f-58af-8659-cfa579aacee9@cp-calendar
 DESCRIPTION:Instructor: Ally C\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -802,10 +802,10 @@ BEGIN:VEVENT
 SUMMARY:Free Community Flow Class — Boulder on the Hill
 DTSTART:20261101T180000Z
 DTEND:20261101T190000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:71161af4-0cba-536a-a495-682ddd44897c@cp-calendar
 DESCRIPTION:Instructor: Riley C\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -815,10 +815,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261101T203000Z
 DTEND:20261101T213000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:05b110e9-9af1-521f-8643-ed9bd0bda9e5@cp-calendar
 DESCRIPTION:Instructor: Olivia W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -828,10 +828,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261101T220000Z
 DTEND:20261101T230000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:aa20f98d-4cb4-5b43-883b-be17f5cc78e8@cp-calendar
 DESCRIPTION:Instructor: Olivia W\nStudio: Boulder on the Hill\nSpots: 39 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -841,10 +841,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261101T233000Z
 DTEND:20261102T003000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:7f8a6f72-44a1-5735-ad6b-b2ae508e33ba@cp-calendar
 DESCRIPTION:Instructor: Kaya L\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -854,10 +854,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — Boulder on the Hill
 DTSTART:20261102T010000Z
 DTEND:20261102T020000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:fd53b2b9-5d4a-57cd-b330-2029d8a0950d@cp-calendar
 DESCRIPTION:Instructor: Matilde L\nStudio: Boulder on the Hill\nSpots: 40 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -867,10 +867,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261102T023000Z
 DTEND:20261102T033000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:461cfaab-1258-55cd-b3be-f26341439114@cp-calendar
 DESCRIPTION:Instructor: Danielle M\nStudio: Boulder on the Hill\nSpots: 40
-  available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC
+  available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC
  )\nTap the event link\, then pick this studio and date\, to check the live
   schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -880,10 +880,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — Boulder on the Hill
 DTSTART:20261102T124500Z
 DTEND:20261102T134500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:fee64263-b46b-5ec0-afa2-4f2296dccc28@cp-calendar
 DESCRIPTION:Instructor: Devan A\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -893,10 +893,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261102T140000Z
 DTEND:20261102T150000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:36fd4b91-299a-5feb-bafd-541b95dcd81e@cp-calendar
 DESCRIPTION:Instructor: Phoebe W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -906,10 +906,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261102T153000Z
 DTEND:20261102T163000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:978d1ad6-9a49-56e1-b1ce-b16bfe88dbc2@cp-calendar
-DESCRIPTION:Instructor: Kaitlin C\nStudio: Boulder on the Hill\nSpots: 40 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+DESCRIPTION:Instructor: Kaitlin C\nStudio: Boulder on the Hill\nSpots: 39 
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -919,10 +919,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261102T183000Z
 DTEND:20261102T193000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:ae6e5203-baa3-5a34-91ee-01464c87646f@cp-calendar
 DESCRIPTION:Instructor: Maya S\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -932,10 +932,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261102T200000Z
 DTEND:20261102T204500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:e778d95d-d9c7-5958-a52a-0afd21f5d0e7@cp-calendar
 DESCRIPTION:Instructor: Tate B\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -945,10 +945,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261102T210000Z
 DTEND:20261102T220000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:f582ecda-d803-5bbe-b6c2-75dd2b2570dd@cp-calendar
 DESCRIPTION:Instructor: Phoebe W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -958,10 +958,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261102T223000Z
 DTEND:20261102T233000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:38953601-2d58-5a27-bce3-27c32ba32937@cp-calendar
 DESCRIPTION:Instructor: Sydney B\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -971,10 +971,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261103T000000Z
 DTEND:20261103T010000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:7bf09309-cdb3-5c64-af83-b3a4d4b0265e@cp-calendar
 DESCRIPTION:Instructor: Matilde L\nStudio: Boulder on the Hill\nSpots: 39 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -984,10 +984,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261103T013000Z
 DTEND:20261103T023000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:d799c22f-8abf-517d-b4d5-824b8d0c7210@cp-calendar
 DESCRIPTION:Instructor: Olivia W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -997,10 +997,10 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — Boulder on the Hill
 DTSTART:20261103T030000Z
 DTEND:20261103T040000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:8a285206-d3c3-5178-96eb-f917fdf0865a@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: Boulder on the Hill\nSpots: 40 avail
- able of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nTap
+ able of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nTap
   the event link\, then pick this studio and date\, to check the live sched
  ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1010,10 +1010,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261103T140000Z
 DTEND:20261103T150000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:7173b51f-ca96-5d28-90ae-ab850f9f9a0e@cp-calendar
-DESCRIPTION:Instructor: Sophie E\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+DESCRIPTION:Instructor: Sophie E\nStudio: Boulder on the Hill\nSpots: 39 a
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1023,10 +1023,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261103T153000Z
 DTEND:20261103T163000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:95c99652-cd15-5d0a-9936-0397a4cc411a@cp-calendar
 DESCRIPTION:Instructor: Dylan L\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1036,10 +1036,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261103T170000Z
 DTEND:20261103T180000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:93fe79fb-2bcf-5641-9ca4-0949cf12c9b2@cp-calendar
 DESCRIPTION:Instructor: Phoebe W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1049,10 +1049,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261103T183000Z
 DTEND:20261103T193000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:b13d68bf-af08-59d5-8a11-1effff925564@cp-calendar
 DESCRIPTION:Instructor: Gemma J\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1062,10 +1062,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261103T210000Z
 DTEND:20261103T220000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:e814295f-072b-55ae-b741-2b9626bf9aec@cp-calendar
 DESCRIPTION:Instructor: Eileen T\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1075,10 +1075,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261103T223000Z
 DTEND:20261103T233000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:b22b3b61-f3ff-5575-a2c2-9cea295eccb9@cp-calendar
 DESCRIPTION:Instructor: Eileen T\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1088,10 +1088,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261104T000000Z
 DTEND:20261104T010000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:573aac8f-0807-53b7-8b86-7e55eb5b3e87@cp-calendar
 DESCRIPTION:Instructor: Drew H\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1101,10 +1101,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — Boulder on the Hill
 DTSTART:20261104T014500Z
 DTEND:20261104T024500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:bb8ffc39-eb4c-536e-a132-32fa107e762a@cp-calendar
 DESCRIPTION:Instructor: Teresa D\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1114,10 +1114,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261104T140000Z
 DTEND:20261104T150000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:a0bffcff-6811-5098-9173-f91b30866b26@cp-calendar
 DESCRIPTION:Instructor: Maya S\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1127,10 +1127,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261104T153000Z
 DTEND:20261104T163000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:c20f8862-a27b-5491-bd5a-bf356fa33570@cp-calendar
-DESCRIPTION:Instructor: Kaley M\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+DESCRIPTION:Instructor: Kaley M\nStudio: Boulder on the Hill\nSpots: 39 av
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1140,10 +1140,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — Boulder on the Hill
 DTSTART:20261104T170000Z
 DTEND:20261104T180000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:e7f7f81c-b2a5-551d-b823-c640a22a1035@cp-calendar
 DESCRIPTION:Instructor: Jennifer B\nStudio: Boulder on the Hill\nSpots: 40
-  available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC
+  available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC
  )\nTap the event link\, then pick this studio and date\, to check the live
   schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1153,10 +1153,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261104T183000Z
 DTEND:20261104T193000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:1f5bcc5d-ba58-5326-989f-db9d1036928b@cp-calendar
 DESCRIPTION:Instructor: Kaitlin C\nStudio: Boulder on the Hill\nSpots: 40 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1166,10 +1166,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261104T200000Z
 DTEND:20261104T204500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:178f28a1-5361-5e44-8eec-5dc9c0906252@cp-calendar
 DESCRIPTION:Instructor: Tate B\nStudio: Boulder on the Hill\nSpots: 40 ava
- ilable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\nT
+ ilable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\nT
  ap the event link\, then pick this studio and date\, to check the live sch
  edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1179,10 +1179,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261104T223000Z
 DTEND:20261104T233000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:99d315e0-2859-5f4a-a73a-523307c65ce9@cp-calendar
 DESCRIPTION:Instructor: Phoebe W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1192,10 +1192,10 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — Boulder on the Hill
 DTSTART:20261105T000000Z
 DTEND:20261105T004500Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:7cd3f3fd-7000-588f-ba95-067987e0ce3a@cp-calendar
-DESCRIPTION:Instructor: Monica M\nStudio: Boulder on the Hill\nSpots: 35 a
- vailable of 35\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+DESCRIPTION:Instructor: Monica M\nStudio: Boulder on the Hill\nSpots: 34 a
+ vailable of 35\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1205,10 +1205,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261105T013000Z
 DTEND:20261105T023000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:e477e6a1-e5db-5300-95ac-901edc1c8f54@cp-calendar
 DESCRIPTION:Instructor: Sophia W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1218,10 +1218,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261105T030000Z
 DTEND:20261105T040000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:fb717039-1f2e-5715-ad04-3ef04f4c99d4@cp-calendar
 DESCRIPTION:Instructor: Sophia W\nStudio: Boulder on the Hill\nSpots: 40 a
- vailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ vailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1231,10 +1231,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261105T140000Z
 DTEND:20261105T150000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:40d21bc3-cd87-5fd4-865a-944034d40b31@cp-calendar
-DESCRIPTION:Instructor: Tumra M\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+DESCRIPTION:Instructor: Tumra M\nStudio: Boulder on the Hill\nSpots: 39 av
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1244,10 +1244,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261105T153000Z
 DTEND:20261105T163000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:0129e8b8-cd6a-5a51-b91c-0d93cfae961e@cp-calendar
 DESCRIPTION:Instructor: Tumra M\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1257,10 +1257,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261105T183000Z
 DTEND:20261105T193000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:25ea5f0b-d440-583b-b966-a29c6c7e8b95@cp-calendar
 DESCRIPTION:Instructor: Emily L\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1270,10 +1270,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261105T210000Z
 DTEND:20261105T220000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:a6b1c9df-0133-5f07-8d94-2a04d35cda33@cp-calendar
 DESCRIPTION:Instructor: Dylan L\nStudio: Boulder on the Hill\nSpots: 40 av
- ailable of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)\n
+ ailable of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)\n
  Tap the event link\, then pick this studio and date\, to check the live sc
  hedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1283,10 +1283,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261105T223000Z
 DTEND:20261105T233000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:2f850344-fa07-5719-9707-b10f488eb00c@cp-calendar
 DESCRIPTION:Instructor: Abigail L\nStudio: Boulder on the Hill\nSpots: 40 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
@@ -1296,10 +1296,10 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — Boulder on the Hill
 DTSTART:20261106T013000Z
 DTEND:20261106T023000Z
-DTSTAMP:20261023T025440Z
+DTSTAMP:20261023T085947Z
 UID:aeff5bd8-3a14-56ca-a404-9d493c204fa0@cp-calendar
 DESCRIPTION:Instructor: Abigail L\nStudio: Boulder on the Hill\nSpots: 40 
- available of 40\n\nSynced: Oct 23\, 2:54 AM UTC (2026-10-23T02:54:40Z UTC)
+ available of 40\n\nSynced: Oct 23\, 8:59 AM UTC (2026-10-23T08:59:47Z UTC)
  \nTap the event link\, then pick this studio and date\, to check the live 
  schedule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:Boulder on the Hill
