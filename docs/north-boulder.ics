@@ -8,11 +8,11 @@ X-WR-CALDESC:Auto-synced class schedule for CorePower Yoga North Boulder.
 X-WR-CALNAME:CorePower Yoga — North Boulder
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-SUMMARY:📅 North Boulder feed last generated Nov 17\, 11:17 PM UTC
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-DTSTAMP:20261117T231709Z
-UID:sync-banner-north-boulder-2026-11-17@cp-calendar
+SUMMARY:📅 North Boulder feed last generated Nov 18\, 5:30 AM UTC
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261118T053006Z
+UID:sync-banner-north-boulder-2026-11-18@cp-calendar
 DESCRIPTION:This feed is regenerated on a schedule and Google Calendar may
   take hours to re-fetch it. Open a class's link to confirm it against the 
  live CorePower site.
@@ -20,79 +20,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
-DTSTART:20261118T003000Z
-DTEND:20261118T013000Z
-DTSTAMP:20261117T231709Z
-UID:e6272489-33ba-5e7d-9b49-f69331f4bb0b@cp-calendar
-DESCRIPTION:Instructor: Natalie H\nStudio: North Boulder\nSpots: 30 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
-LOCATION:North Boulder
-URL:https://www.corepoweryoga.com/yoga-schedules/studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CorePower Yoga 2 — North Boulder
-DTSTART:20261118T004500Z
-DTEND:20261118T020000Z
-DTSTAMP:20261117T231709Z
-UID:ea61f826-e21d-5e16-a749-45491f5ec796@cp-calendar
-DESCRIPTION:Instructor: Ashley L\nStudio: North Boulder\nSpots: 47 availab
- le of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
-LOCATION:North Boulder
-URL:https://www.corepoweryoga.com/yoga-schedules/studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CorePower Yoga 2 — North Boulder
-DTSTART:20261118T014500Z
-DTEND:20261118T024500Z
-DTSTAMP:20261117T231709Z
-UID:f15b3353-c815-5280-be15-0bdbeb129bfd@cp-calendar
-DESCRIPTION:Instructor: Ljubica H\nStudio: North Boulder\nSpots: 50 availa
- ble of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
-LOCATION:North Boulder
-URL:https://www.corepoweryoga.com/yoga-schedules/studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CorePower Yoga 1 — North Boulder
-DTSTART:20261118T021500Z
-DTEND:20261118T031500Z
-DTSTAMP:20261117T231709Z
-UID:8a85758d-d271-5ad5-ac1e-207fdc8157d2@cp-calendar
-DESCRIPTION:Instructor: Jess R\nStudio: North Boulder\nSpots: 42 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
-LOCATION:North Boulder
-URL:https://www.corepoweryoga.com/yoga-schedules/studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CoreRestore — North Boulder
-DTSTART:20261118T033000Z
-DTEND:20261118T043000Z
-DTSTAMP:20261117T231709Z
-UID:b907756b-d31c-5f3e-a406-5e08c146533b@cp-calendar
-DESCRIPTION:Instructor: Jess R\nStudio: North Boulder\nSpots: 47 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
-LOCATION:North Boulder
-URL:https://www.corepoweryoga.com/yoga-schedules/studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261118T133000Z
 DTEND:20261118T143000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:850b52e2-9df1-559b-8e5c-e4f8803317f2@cp-calendar
-DESCRIPTION:Instructor: Bea M\nStudio: North Boulder\nSpots: 44 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Bea M\nStudio: North Boulder\nSpots: 40 available 
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -100,12 +35,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261118T143000Z
 DTEND:20261118T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:22f6719b-6279-5706-941e-4a72aa6a7eee@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 44 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -113,12 +48,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261118T144500Z
 DTEND:20261118T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:22894c88-d00f-5b9b-91e8-5897ccb16c98@cp-calendar
-DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 43 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 39 avai
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -126,12 +61,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261118T154500Z
 DTEND:20261118T164500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:77c5a36d-3d33-5568-8d6f-1600800647f8@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: North Boulder\nSpots: 44 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -139,12 +74,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261118T160000Z
 DTEND:20261118T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e955bb98-2880-52e8-abc7-bf38c67f4e14@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 44 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -152,12 +87,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261118T173000Z
 DTEND:20261118T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:aacbbe8e-7983-5fe8-aef2-a48024d2da32@cp-calendar
-DESCRIPTION:Instructor: Raj S\nStudio: North Boulder\nSpots: 44 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Raj S\nStudio: North Boulder\nSpots: 43 available 
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -165,12 +100,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261118T173000Z
 DTEND:20261118T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:83f5813c-371e-560d-8029-4c311f01d678@cp-calendar
-DESCRIPTION:Instructor: Dylan L\nStudio: North Boulder\nSpots: 37 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Dylan L\nStudio: North Boulder\nSpots: 33 availabl
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -178,12 +113,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261118T190000Z
 DTEND:20261118T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:44d6cbd6-52b5-5eae-a9e2-1cf2d4c16c82@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 44 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -191,12 +126,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261118T201500Z
 DTEND:20261118T211500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:67e781e8-2aa2-5363-8b1a-84653da2afe6@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: North Boulder\nSpots: 50 available 
- of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -204,12 +139,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261118T213000Z
 DTEND:20261118T223000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:c1aef526-067c-5426-b3a5-826e908e8311@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: North Boulder\nSpots: 44 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -217,12 +152,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261118T220000Z
 DTEND:20261118T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b5058110-58d2-5fbb-bb19-28b6f76072e8@cp-calendar
 DESCRIPTION:Instructor: Allison W\nStudio: North Boulder\nSpots: 44 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -230,12 +165,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261118T231500Z
 DTEND:20261119T001500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:650ead11-89d2-56b2-921c-3a2dfbd15994@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -243,12 +178,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261119T003000Z
 DTEND:20261119T013000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:c70a16e3-d3f3-50b4-b261-77aaf8d1b54b@cp-calendar
 DESCRIPTION:Instructor: Drew H\nStudio: North Boulder\nSpots: 38 available
-  of 44\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 44\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -256,12 +191,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261119T004500Z
 DTEND:20261119T014500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:baf482f0-f3d4-5b8f-81bd-7804f7bb93f0@cp-calendar
 DESCRIPTION:Instructor: Ljubica H\nStudio: North Boulder\nSpots: 49 availa
- ble of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -269,12 +204,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261119T021500Z
 DTEND:20261119T031500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:f21aaf35-c26e-5043-998b-c39d93063995@cp-calendar
 DESCRIPTION:Instructor: Joy M\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -282,12 +217,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261119T031500Z
 DTEND:20261119T041500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:015e86d3-a093-5dcd-9135-492cf187feef@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: North Boulder\nSpots: 47 available o
- f 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the 
- event link\, then pick this studio and date\, to check the live schedule o
- n corepoweryoga.com (CorePower has no direct per-class link).
+ f 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the e
+ vent link\, then pick this studio and date\, to check the live schedule on
+  corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -295,12 +230,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261119T130000Z
 DTEND:20261119T140000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b7da1117-11a1-5e91-aee4-396ed31cd170@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: North Boulder\nSpots: 43 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -308,12 +243,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261119T133000Z
 DTEND:20261119T143000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:30269895-9130-5640-9e59-a8f98c097448@cp-calendar
 DESCRIPTION:Instructor: Ella B\nStudio: North Boulder\nSpots: 42 available
-  of 44\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 44\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -321,12 +256,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261119T143000Z
 DTEND:20261119T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e825167d-e23f-58b0-b6d5-d8585dc6873e@cp-calendar
-DESCRIPTION:Instructor: Sasha B\nStudio: North Boulder\nSpots: 45 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Sasha B\nStudio: North Boulder\nSpots: 46 availabl
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -334,12 +269,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261119T144500Z
 DTEND:20261119T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:05e8b14b-afac-536b-8ce0-f4a881721403@cp-calendar
 DESCRIPTION:Instructor: Scott O\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -347,12 +282,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261119T154500Z
 DTEND:20261119T164500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:d7feafdd-e928-5c21-97a8-959071d8f138@cp-calendar
-DESCRIPTION:Instructor: Ella B\nStudio: North Boulder\nSpots: 37 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Ella B\nStudio: North Boulder\nSpots: 36 available
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -360,12 +295,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261119T160000Z
 DTEND:20261119T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:15e06c9d-2efe-5ec0-bdea-48dedbbd25ee@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -373,12 +308,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261119T173000Z
 DTEND:20261119T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e6f9d8a9-b763-532c-96d7-4ee74d317d45@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 44 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -386,12 +321,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261119T173000Z
 DTEND:20261119T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:42ba3c58-ce9e-5819-b0bd-a01dde161f40@cp-calendar
 DESCRIPTION:Instructor: Natalie M\nStudio: North Boulder\nSpots: 42 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -399,12 +334,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261119T190000Z
 DTEND:20261119T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:2ed95cfd-2cfe-54bb-9620-3e9aa2128ade@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -412,25 +347,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261119T191500Z
 DTEND:20261119T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:d436f6e9-258c-5698-bbc8-fd10b49da6dd@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: North Boulder\nSpots: 44 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
-LOCATION:North Boulder
-URL:https://www.corepoweryoga.com/yoga-schedules/studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CorePower Yoga 2 — North Boulder
-DTSTART:20261119T201500Z
-DTEND:20261119T211500Z
-DTSTAMP:20261117T231709Z
-UID:ea440ce9-4a7f-54b4-a2a3-3dac67a7eea5@cp-calendar
-DESCRIPTION:Instructor: Joy M\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -438,12 +360,25 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261119T201500Z
 DTEND:20261119T211500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b8fb0d30-029b-5683-95cc-8e03b4e7f81f@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
+LOCATION:North Boulder
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CorePower Yoga 2 — North Boulder
+DTSTART:20261119T201500Z
+DTEND:20261119T211500Z
+DTSTAMP:20261118T053006Z
+UID:ea440ce9-4a7f-54b4-a2a3-3dac67a7eea5@cp-calendar
+DESCRIPTION:Instructor: Joy M\nStudio: North Boulder\nSpots: 44 available 
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -451,12 +386,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261119T213000Z
 DTEND:20261119T223000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:f14b06d5-83e9-5bf9-b208-03d6f0fe188f@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: North Boulder\nSpots: 50 available 
- of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -464,12 +399,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261119T220000Z
 DTEND:20261119T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:589e7cb6-eb68-5b80-aabe-221934b8ebed@cp-calendar
 DESCRIPTION:Instructor: Gracynn B\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -477,12 +412,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261119T231500Z
 DTEND:20261120T001500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:a8517ea0-7808-5df8-a6f1-e5afa3b549f3@cp-calendar
 DESCRIPTION:Instructor: Eric S\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -490,12 +425,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261119T231500Z
 DTEND:20261120T000000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:3f015ded-b684-546b-bf53-5ee626f0bbc8@cp-calendar
-DESCRIPTION:Instructor: Monica M\nStudio: North Boulder\nSpots: 42 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Monica M\nStudio: North Boulder\nSpots: 41 availab
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -503,12 +438,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261120T003000Z
 DTEND:20261120T013000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:0e223cb3-ae3f-55fa-99b0-fc1b086ed21b@cp-calendar
-DESCRIPTION:Instructor: Bea M\nStudio: North Boulder\nSpots: 39 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Bea M\nStudio: North Boulder\nSpots: 38 available 
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -516,12 +451,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261120T004500Z
 DTEND:20261120T014500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:1c3c369f-064b-56f3-97ee-641fe6c34410@cp-calendar
 DESCRIPTION:Instructor: Ella L\nStudio: North Boulder\nSpots: 44 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -529,12 +464,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — North Boulder
 DTSTART:20261120T021500Z
 DTEND:20261120T031500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:d2db407c-54c7-52c5-9d24-313c50b814b7@cp-calendar
 DESCRIPTION:Instructor: Eric S\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -542,12 +477,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261120T031500Z
 DTEND:20261120T041500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:99c7773b-1b2b-5a95-b98f-68b299702040@cp-calendar
-DESCRIPTION:Instructor: Scott O\nStudio: North Boulder\nSpots: 43 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Scott O\nStudio: North Boulder\nSpots: 42 availabl
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -555,12 +490,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261120T130000Z
 DTEND:20261120T140000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:cb7d8ce6-559b-5d3e-a3a2-ba203f679d99@cp-calendar
 DESCRIPTION:Instructor: Scott O\nStudio: North Boulder\nSpots: 50 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -568,12 +503,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261120T133000Z
 DTEND:20261120T143000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:4205f67b-9c8b-5aaf-8907-dd2ae9fa67fe@cp-calendar
 DESCRIPTION:Instructor: Alexandria T\nStudio: North Boulder\nSpots: 44 ava
- ilable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\n
- Tap the event link\, then pick this studio and date\, to check the live sc
- hedule on corepoweryoga.com (CorePower has no direct per-class link).
+ ilable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nT
+ ap the event link\, then pick this studio and date\, to check the live sch
+ edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -581,12 +516,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261120T154500Z
 DTEND:20261120T164500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:2d102512-35ed-58e2-a10b-e4acb785123a@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 43 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -594,12 +529,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261120T160000Z
 DTEND:20261120T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:fcd2016a-b37f-5aad-9c5b-b0cb73dfb3c9@cp-calendar
 DESCRIPTION:Instructor: Sasha B\nStudio: North Boulder\nSpots: 49 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -607,12 +542,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261120T173000Z
 DTEND:20261120T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:2d473225-40fc-5657-812c-8555c11cc2c4@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: North Boulder\nSpots: 47 available o
- f 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the 
- event link\, then pick this studio and date\, to check the live schedule o
- n corepoweryoga.com (CorePower has no direct per-class link).
+ f 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the e
+ vent link\, then pick this studio and date\, to check the live schedule on
+  corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -620,12 +555,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261120T190000Z
 DTEND:20261120T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:3815a831-50c3-5d51-ac42-6ce44c79f247@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -633,12 +568,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261120T201500Z
 DTEND:20261120T211500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:00fc9e25-91ca-527b-a8e7-091c0f167587@cp-calendar
 DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 41 availabl
- e of 44\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 44\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -646,12 +581,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261120T213000Z
 DTEND:20261120T223000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:94fb8de5-936b-5ce0-85e2-d0657a4e4789@cp-calendar
 DESCRIPTION:Instructor: Natasha S\nStudio: North Boulder\nSpots: 50 availa
- ble of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -659,12 +594,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261120T220000Z
 DTEND:20261120T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:66c0dad0-2b7f-575e-b592-f7ccb6ded160@cp-calendar
 DESCRIPTION:Instructor: Sophie L\nStudio: North Boulder\nSpots: 44 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -672,12 +607,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261120T233000Z
 DTEND:20261121T004500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:069064e4-95f2-57b4-970c-f68ba5ffaef2@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -685,12 +620,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261121T003000Z
 DTEND:20261121T013000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b3352b57-26d6-5bc3-9180-8171c931036a@cp-calendar
 DESCRIPTION:Instructor: Eileen T\nStudio: North Boulder\nSpots: 43 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -698,12 +633,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261121T011500Z
 DTEND:20261121T021500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:578fe328-8e2b-5998-aba9-dc52388d3118@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 44 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -711,12 +646,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261121T140000Z
 DTEND:20261121T150000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:73d513d6-960f-5b29-928d-ce53d27b65bd@cp-calendar
 DESCRIPTION:Instructor: Cassie B\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -724,12 +659,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261121T150000Z
 DTEND:20261121T160000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:3f9c9b8a-e035-540c-ae3d-a7709c396fac@cp-calendar
-DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 44 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 43 availab
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -737,12 +672,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261121T151500Z
 DTEND:20261121T161500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:564ba205-c12d-5ea9-af6c-61562a79a9b7@cp-calendar
 DESCRIPTION:Instructor: Cassie B\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -750,12 +685,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 3 — North Boulder
 DTSTART:20261121T163000Z
 DTEND:20261121T174500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:6e501748-fd87-51df-b8a7-ebdf83a2d139@cp-calendar
 DESCRIPTION:Instructor: Jessica P\nStudio: North Boulder\nSpots: 50 availa
- ble of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -763,12 +698,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261121T163000Z
 DTEND:20261121T173000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b0341931-e4ed-5b23-b2a3-a1f16a15f2a3@cp-calendar
 DESCRIPTION:Instructor: Jessica P\nStudio: North Boulder\nSpots: 44 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -776,12 +711,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261121T180000Z
 DTEND:20261121T190000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:5f92fb08-9ab7-57b4-8683-a605feeb4e98@cp-calendar
 DESCRIPTION:Instructor: Friday R\nStudio: North Boulder\nSpots: 44 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -789,12 +724,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261121T193000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:46032829-cebd-5ff4-91fa-4fce917c0f9c@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -802,12 +737,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261121T193000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:81ed4b7c-dce4-5d48-81f1-202fc4761479@cp-calendar
 DESCRIPTION:Instructor: Cassie B\nStudio: North Boulder\nSpots: 48 availab
- le of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -815,12 +750,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261121T210000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:2402da0c-b058-5309-af68-dabba8992123@cp-calendar
 DESCRIPTION:Instructor: Friday R\nStudio: North Boulder\nSpots: 50 availab
- le of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -828,12 +763,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261121T220000Z
 DTEND:20261121T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:d67aefb4-7b80-56ab-853c-f9976f336a75@cp-calendar
 DESCRIPTION:Instructor: Jessica P\nStudio: North Boulder\nSpots: 26 availa
- ble of 37\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 37\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -841,12 +776,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261121T221500Z
 DTEND:20261121T231500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:d93fbb31-9d23-50ef-a069-e463e31e9e05@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -854,12 +789,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261121T233000Z
 DTEND:20261122T003000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:3fe69976-a2fe-583f-aefc-c05a8e32e9f6@cp-calendar
 DESCRIPTION:Instructor: Cassie B\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -867,12 +802,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261121T234500Z
 DTEND:20261122T010000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:aa90f8ed-6bcf-5bdb-8e6f-ceb721e5824f@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -880,12 +815,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261122T140000Z
 DTEND:20261122T150000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b9b646e8-1e80-5041-962a-c315a774596e@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -893,12 +828,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261122T150000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:6033458b-86f8-5ad4-8489-4a8ca4a36d50@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -906,12 +841,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261122T160000Z
 DTEND:20261122T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:47e5bf6b-5496-5b26-9c57-d89479637b34@cp-calendar
 DESCRIPTION:Instructor: Izabelle G\nStudio: North Boulder\nSpots: 45 avail
- able of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTa
- p the event link\, then pick this studio and date\, to check the live sche
- dule on corepoweryoga.com (CorePower has no direct per-class link).
+ able of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -919,12 +854,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 3 — North Boulder
 DTSTART:20261122T163000Z
 DTEND:20261122T173000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:fe045ca8-6610-504e-a943-5e892f04a2bf@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -932,12 +867,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — North Boulder
 DTSTART:20261122T180000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:eef92d84-5c99-543d-9891-7e95c7a2e261@cp-calendar
 DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 48 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -945,12 +880,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261122T190000Z
 DTEND:20261122T203000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:17d3688d-dd62-5482-9914-d3e7d76a012a@cp-calendar
 DESCRIPTION:Instructor: Amanda\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -958,12 +893,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261122T193000Z
 DTEND:20261122T203000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:defa0843-325d-55de-86bf-14fb2cae4698@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 43 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -971,12 +906,12 @@ BEGIN:VEVENT
 SUMMARY:In Studio Events — North Boulder
 DTSTART:20261122T204500Z
 DTEND:20261122T214500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:96549acd-4371-5e67-b2dd-de384a788475@cp-calendar
 DESCRIPTION:Instructor: Natasha S\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -984,12 +919,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261122T210000Z
 DTEND:20261122T220000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:2539c4b7-aafa-5a31-814b-246865a958e5@cp-calendar
 DESCRIPTION:Instructor: Ella L\nStudio: North Boulder\nSpots: 43 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -997,12 +932,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261122T221500Z
 DTEND:20261122T231500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e51f012e-b4dc-500c-b5dc-e18b361040ad@cp-calendar
 DESCRIPTION:Instructor: Joy M\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1010,12 +945,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261123T000000Z
 DTEND:20261123T011500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:30208dad-7acc-510b-a8b5-017edac54783@cp-calendar
 DESCRIPTION:Instructor: Joy M\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1023,12 +958,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261123T013000Z
 DTEND:20261123T023000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:3231e415-f068-5c25-b254-8ef9b668b677@cp-calendar
-DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 44 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 43 availabl
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1036,12 +971,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261123T130000Z
 DTEND:20261123T140000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:97d17df1-4d04-5c84-a910-fc592711dd63@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1049,12 +984,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261123T133000Z
 DTEND:20261123T143000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:85d38d54-f35e-5685-8f7d-b9fd7e27450e@cp-calendar
 DESCRIPTION:Instructor: Charlotte N\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1062,12 +997,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261123T143000Z
 DTEND:20261123T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:88b9c1a2-e8dc-5fba-a71b-b9f253265e2e@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1075,12 +1010,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261123T144500Z
 DTEND:20261123T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:05ead30f-8f9a-520d-a356-f545dec94947@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1088,12 +1023,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261123T154500Z
 DTEND:20261123T164500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:afeb218c-9e4f-58fe-b205-0c0b197e10a8@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1101,12 +1036,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261123T160000Z
 DTEND:20261123T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:450ae322-4b77-54a6-b164-122307ae79c9@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1114,12 +1049,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261123T173000Z
 DTEND:20261123T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:5eacf564-2947-598e-862c-d0a95f7f0165@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1127,12 +1062,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261123T173000Z
 DTEND:20261123T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e35bb93a-50c5-5edd-afc8-1ba22890e4c9@cp-calendar
 DESCRIPTION:Instructor: Clara L\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1140,12 +1075,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261123T190000Z
 DTEND:20261123T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:c9d5a5c7-37a7-5495-b6cc-5d9087eebcd0@cp-calendar
 DESCRIPTION:Instructor: Mark S\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1153,12 +1088,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261123T203000Z
 DTEND:20261123T213000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:048b11a6-a4e2-59df-9951-759780cf2fe6@cp-calendar
 DESCRIPTION:Instructor: Mark S\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1166,12 +1101,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261123T220000Z
 DTEND:20261123T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:29302bce-cd23-5307-b430-35c2cc48dcf4@cp-calendar
 DESCRIPTION:Instructor: Jessica P\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1179,12 +1114,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261123T231500Z
 DTEND:20261124T000000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:69cf6682-2617-5517-9aab-f3ac0cc46dfd@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 44 avai
- lable of 44\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 44\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1192,12 +1127,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261123T231500Z
 DTEND:20261124T001500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:df3b6637-7f7f-555c-a4bd-16653660c732@cp-calendar
 DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1205,12 +1140,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261124T003000Z
 DTEND:20261124T013000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e31c6f8f-f264-546b-b600-7ff90edeb2bb@cp-calendar
 DESCRIPTION:Instructor: Katie H\nStudio: North Boulder\nSpots: 44 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1218,12 +1153,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261124T004500Z
 DTEND:20261124T014500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:8c1efe12-694c-5279-8b4f-58c2e147f105@cp-calendar
 DESCRIPTION:Instructor: Natasha S\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1231,12 +1166,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261124T030000Z
 DTEND:20261124T040000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:9d310139-43fb-563c-a1ec-6d9797d93bd7@cp-calendar
 DESCRIPTION:Instructor: Jolie M\nStudio: North Boulder\nSpots: 50 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1244,12 +1179,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261124T041500Z
 DTEND:20261124T051500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b0c1f965-9d6b-59f9-aac2-96c43bb36c1d@cp-calendar
 DESCRIPTION:Instructor: Jolie M\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1257,12 +1192,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261124T130000Z
 DTEND:20261124T140000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:99f9719c-bd92-5763-8943-089978dc3ae1@cp-calendar
 DESCRIPTION:Instructor: Ljubica H\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1270,12 +1205,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261124T133000Z
 DTEND:20261124T143000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:bc8e78b7-11fe-5e1d-a224-7e502dd001a8@cp-calendar
 DESCRIPTION:Instructor: Alexandria T\nStudio: North Boulder\nSpots: 45 ava
- ilable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\n
- Tap the event link\, then pick this studio and date\, to check the live sc
- hedule on corepoweryoga.com (CorePower has no direct per-class link).
+ ilable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nT
+ ap the event link\, then pick this studio and date\, to check the live sch
+ edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1283,12 +1218,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261124T154500Z
 DTEND:20261124T164500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:ce75541f-e31a-5f8d-a9ce-205e4b66517a@cp-calendar
 DESCRIPTION:Instructor: Laura L\nStudio: North Boulder\nSpots: 44 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1296,12 +1231,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261124T160000Z
 DTEND:20261124T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:ff90cf69-e1a9-5582-8b14-57112205a4da@cp-calendar
 DESCRIPTION:Instructor: Jessica P\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1309,12 +1244,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261124T173000Z
 DTEND:20261124T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:412ea7cf-3022-5167-a508-b3567f781803@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1322,12 +1257,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261124T173000Z
 DTEND:20261124T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:dcae1dbd-c58a-5b30-8fdd-6bc62985d63e@cp-calendar
 DESCRIPTION:Instructor: Gracynn B\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1335,12 +1270,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261124T190000Z
 DTEND:20261124T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:747238f4-8636-5328-b41a-d66d42db3d65@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1348,12 +1283,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261124T201500Z
 DTEND:20261124T211500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:d6536c39-6b23-51f5-8e92-ba2e0362995d@cp-calendar
 DESCRIPTION:Instructor: Katie\nStudio: North Boulder\nSpots: 44 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1361,12 +1296,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261124T213000Z
 DTEND:20261124T223000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:dbf8ad93-e173-53e9-a3f5-b973059553fd@cp-calendar
 DESCRIPTION:Instructor: Natasha S\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1374,12 +1309,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:94ed405a-23b5-50b2-b8a4-3d6b83a74ea8@cp-calendar
 DESCRIPTION:Instructor: Charlotte N\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1387,12 +1322,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261124T231500Z
 DTEND:20261125T000000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:7b0a5054-298c-5cda-96df-53833d1291df@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1400,12 +1335,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261124T231500Z
 DTEND:20261125T001500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:dcdd7f03-792e-5117-8104-2ea70af7c606@cp-calendar
 DESCRIPTION:Instructor: Ashley L\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1413,25 +1348,25 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261125T003000Z
 DTEND:20261125T013000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:081fed42-897e-50fb-8649-6a601ebc54a5@cp-calendar
 DESCRIPTION:Instructor: Natalie H\nStudio: North Boulder\nSpots: 44 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261125T004500Z
-DTEND:20261125T020000Z
-DTSTAMP:20261117T231709Z
+DTEND:20261125T014500Z
+DTSTAMP:20261118T053006Z
 UID:ba0c36fc-4ecd-5f3e-ab5a-d253d8ab76b1@cp-calendar
 DESCRIPTION:Instructor: Ashley L\nStudio: North Boulder\nSpots: 50 availab
- le of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1439,12 +1374,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261125T014500Z
 DTEND:20261125T024500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:9e9017a7-1c1c-5564-b3fa-4aeffac7025d@cp-calendar
 DESCRIPTION:Instructor: Jolie M\nStudio: North Boulder\nSpots: 50 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1452,12 +1387,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — North Boulder
 DTSTART:20261125T021500Z
 DTEND:20261125T031500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:810aab8e-f01b-58a8-a123-9ca9611f9f69@cp-calendar
 DESCRIPTION:Instructor: Katie\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1465,12 +1400,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261125T033000Z
 DTEND:20261125T043000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:d50506fd-1ae1-5adc-887f-052568c73556@cp-calendar
 DESCRIPTION:Instructor: Jolie M\nStudio: North Boulder\nSpots: 50 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1478,12 +1413,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261125T133000Z
 DTEND:20261125T143000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:f3534102-22ff-5046-830f-8a4206567598@cp-calendar
 DESCRIPTION:Instructor: Bea M\nStudio: North Boulder\nSpots: 44 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1491,12 +1426,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261125T143000Z
 DTEND:20261125T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:dd9c24ee-37ad-5906-a2f5-b951a14816d4@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1504,12 +1439,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261125T144500Z
 DTEND:20261125T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:9db026ec-8d17-55c8-af9d-e2bcad5fb42b@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1517,12 +1452,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261125T154500Z
 DTEND:20261125T164500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:2bbcef16-27f7-51b6-92f5-49527d34b36d@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: North Boulder\nSpots: 44 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1530,12 +1465,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261125T160000Z
 DTEND:20261125T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:837b386a-6f9d-59f9-a649-0092a918b7fc@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1543,12 +1478,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261125T173000Z
 DTEND:20261125T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:4a8e21a8-a146-5003-9391-04e144791967@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: North Boulder\nSpots: 45 available o
- f 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the 
- event link\, then pick this studio and date\, to check the live schedule o
- n corepoweryoga.com (CorePower has no direct per-class link).
+ f 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the e
+ vent link\, then pick this studio and date\, to check the live schedule on
+  corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1556,12 +1491,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261125T173000Z
 DTEND:20261125T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:12bc03d7-7798-5971-9351-2928bfd3b7dc@cp-calendar
 DESCRIPTION:Instructor: Dylan L\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1569,12 +1504,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261125T190000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:937d9381-5419-5135-9928-ac78425c4a14@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1582,12 +1517,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261125T201500Z
 DTEND:20261125T211500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:cab763f1-f27e-54ad-bfbb-8abc6936ce9f@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: North Boulder\nSpots: 50 available 
- of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1595,12 +1530,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261125T213000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:1a5ae67d-9d29-5f5c-bdbc-4b15d8655718@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1608,12 +1543,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261125T220000Z
 DTEND:20261125T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:f4e231e4-4266-5132-8ba2-3a8cbbd6cd74@cp-calendar
 DESCRIPTION:Instructor: Allison W\nStudio: North Boulder\nSpots: 44 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1621,12 +1556,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261125T231500Z
 DTEND:20261126T001500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:03bae456-f3ef-537d-9282-1a45ef3c68f7@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1634,12 +1569,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261126T003000Z
 DTEND:20261126T013000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:2d9f58c5-f287-5363-bc89-edb3e71b0f7e@cp-calendar
 DESCRIPTION:Instructor: Drew H\nStudio: North Boulder\nSpots: 43 available
-  of 44\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 44\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1647,12 +1582,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261126T004500Z
 DTEND:20261126T014500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:4bb3d0a9-16e3-582c-bdc8-b827aaea5e99@cp-calendar
 DESCRIPTION:Instructor: Ljubica H\nStudio: North Boulder\nSpots: 50 availa
- ble of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1660,12 +1595,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261126T021500Z
 DTEND:20261126T031500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:3890609b-4c5a-51bc-a3d3-127e0676af91@cp-calendar
 DESCRIPTION:Instructor: Joy M\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1673,12 +1608,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261126T031500Z
 DTEND:20261126T041500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:c4152b76-96b2-54a4-a7b7-a308cf909d32@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: North Boulder\nSpots: 50 available o
- f 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the 
- event link\, then pick this studio and date\, to check the live schedule o
- n corepoweryoga.com (CorePower has no direct per-class link).
+ f 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the e
+ vent link\, then pick this studio and date\, to check the live schedule on
+  corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1686,12 +1621,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261126T143000Z
 DTEND:20261126T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:3ccf35eb-f5f0-583c-9e74-698abbaefb05@cp-calendar
 DESCRIPTION:Instructor: Jim C\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1699,12 +1634,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261126T150000Z
 DTEND:20261126T160000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:38c7d646-80d1-50a9-a8c8-906cd8d20079@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 50 availab
- le of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1712,12 +1647,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261126T160000Z
 DTEND:20261126T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:4b2f97d0-315b-5259-954f-d310bf6237fd@cp-calendar
 DESCRIPTION:Instructor: Natasha S\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1725,12 +1660,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261126T163000Z
 DTEND:20261126T173000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e4c7329e-01ba-5287-ab54-632d75b3e795@cp-calendar
 DESCRIPTION:Instructor: Ella L\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1738,12 +1673,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261126T173000Z
 DTEND:20261126T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:213a5ada-234a-50af-9a23-53485404aee5@cp-calendar
 DESCRIPTION:Instructor: Natalie M\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1751,12 +1686,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261126T180000Z
 DTEND:20261126T190000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:7ce1b540-fbe9-5f8c-912d-4caee6d13cd7@cp-calendar
 DESCRIPTION:Instructor: Friday R\nStudio: North Boulder\nSpots: 49 availab
- le of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1764,12 +1699,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261126T190000Z
 DTEND:20261126T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:5b4a8c8c-a939-5f16-a04b-5af336967784@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1777,12 +1712,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261126T193000Z
 DTEND:20261126T203000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:6e3b43c6-01d2-593f-b8db-a298d1a638dc@cp-calendar
 DESCRIPTION:Instructor: Allison W\nStudio: North Boulder\nSpots: 49 availa
- ble of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1790,12 +1725,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261126T201500Z
 DTEND:20261126T211500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:5d572cc4-a52c-5c57-bcad-bbd8462fe844@cp-calendar
 DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1803,12 +1738,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261126T213000Z
 DTEND:20261126T223000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:930e98d9-fd3c-5445-8e89-534652886a6b@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1816,12 +1751,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261127T133000Z
 DTEND:20261127T143000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:cbf6622f-d1b7-5258-a6e2-a1ba0080f840@cp-calendar
 DESCRIPTION:Instructor: Alexandria T\nStudio: North Boulder\nSpots: 45 ava
- ilable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\n
- Tap the event link\, then pick this studio and date\, to check the live sc
- hedule on corepoweryoga.com (CorePower has no direct per-class link).
+ ilable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nT
+ ap the event link\, then pick this studio and date\, to check the live sch
+ edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1829,12 +1764,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261127T154500Z
 DTEND:20261127T164500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:05f173bc-ba07-51d5-8f38-930a118ddf43@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1842,12 +1777,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261127T160000Z
 DTEND:20261127T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:eed4c0f1-3eff-5a04-88fd-5c7975a7ff87@cp-calendar
 DESCRIPTION:Instructor: Sasha B\nStudio: North Boulder\nSpots: 50 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1855,12 +1790,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261127T173000Z
 DTEND:20261127T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:61fa2952-0188-55f6-9d58-8c7aefc5a882@cp-calendar
 DESCRIPTION:Instructor: Al .\nStudio: North Boulder\nSpots: 49 available o
- f 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the 
- event link\, then pick this studio and date\, to check the live schedule o
- n corepoweryoga.com (CorePower has no direct per-class link).
+ f 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the e
+ vent link\, then pick this studio and date\, to check the live schedule on
+  corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1868,12 +1803,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261127T180000Z
 DTEND:20261127T190000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:8415c95d-6a10-521c-95e2-185e66f6ec8c@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1881,12 +1816,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261127T190000Z
 DTEND:20261127T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:00a0e3a7-b8c2-5be6-aef0-6281770ce191@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1894,12 +1829,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261127T201500Z
 DTEND:20261127T211500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:bf8a77dd-5d7b-530f-a7a6-827fec9f9b4d@cp-calendar
 DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 44 availabl
- e of 44\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 44\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1907,12 +1842,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261127T213000Z
 DTEND:20261127T223000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:ffd7f098-92e9-5075-8fe7-34b8b5673dfe@cp-calendar
 DESCRIPTION:Instructor: Natasha S\nStudio: North Boulder\nSpots: 50 availa
- ble of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1920,12 +1855,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261127T220000Z
 DTEND:20261127T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:5c088740-1e78-5ff8-b0dd-b963c96c16ea@cp-calendar
 DESCRIPTION:Instructor: Mia H\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1933,12 +1868,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261127T233000Z
 DTEND:20261128T004500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:724c1752-87ac-52ab-b337-0f295c42f3ce@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1946,12 +1881,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261128T003000Z
 DTEND:20261128T013000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:c9baf21e-fab3-59a2-a2bd-8d00675ab23b@cp-calendar
 DESCRIPTION:Instructor: Mia H\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1959,12 +1894,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261128T011500Z
 DTEND:20261128T021500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e8d55698-659d-5bb3-9d1d-ae5d7219735f@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1972,12 +1907,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261128T140000Z
 DTEND:20261128T150000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:dc028959-566e-5842-818c-2f278705728b@cp-calendar
 DESCRIPTION:Instructor: Cassie B\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1985,12 +1920,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261128T150000Z
 DTEND:20261128T160000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:da8cd6b4-d09b-507f-ae22-d22f0e12724d@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -1998,12 +1933,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261128T151500Z
 DTEND:20261128T161500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:6f6eb369-9ba5-54fe-8320-9368bccd4cd2@cp-calendar
 DESCRIPTION:Instructor: Cassie B\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2011,12 +1946,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261128T163000Z
 DTEND:20261128T174500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:01cf0a83-1ab8-5fb1-869d-8d73722cbdc5@cp-calendar
 DESCRIPTION:Instructor: Sam L\nStudio: North Boulder\nSpots: 44 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2024,12 +1959,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 3 — North Boulder
 DTSTART:20261128T163000Z
 DTEND:20261128T174500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:1a35fbfa-00de-5298-aedf-f5415e9c9d2f@cp-calendar
 DESCRIPTION:Instructor: Jessica P\nStudio: North Boulder\nSpots: 50 availa
- ble of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2037,12 +1972,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261128T180000Z
 DTEND:20261128T190000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e8a6ee87-606e-5511-8080-054dacb431a5@cp-calendar
 DESCRIPTION:Instructor: Friday R\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2050,12 +1985,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261128T193000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:a09c1b57-f171-54e9-be92-7fba0352e1e4@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2063,12 +1998,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261128T193000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:aabff56d-fdc8-5296-8e05-ab8032fd2bc2@cp-calendar
 DESCRIPTION:Instructor: Cassie B\nStudio: North Boulder\nSpots: 50 availab
- le of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2076,12 +2011,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261128T210000Z
 DTEND:20261128T220000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:f2ee1724-8313-5fab-98fa-5ace60b05b66@cp-calendar
 DESCRIPTION:Instructor: Friday R\nStudio: North Boulder\nSpots: 50 availab
- le of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2089,12 +2024,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261128T220000Z
 DTEND:20261128T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:148b1b12-f1b1-5c6a-88a2-2f9489568eca@cp-calendar
 DESCRIPTION:Instructor: Mia H\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2102,12 +2037,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261128T221500Z
 DTEND:20261128T231500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e67c203a-4e2c-5bfa-8d79-11dc25acbe26@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2115,12 +2050,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261128T233000Z
 DTEND:20261129T003000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:bc60fd67-e665-5bee-aa72-3098aa2ea6d1@cp-calendar
 DESCRIPTION:Instructor: Cassie B\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2128,12 +2063,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261128T234500Z
 DTEND:20261129T010000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e489ed70-af8c-5fee-851f-51708a9c02b1@cp-calendar
 DESCRIPTION:Instructor: Alex K\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2141,12 +2076,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261129T140000Z
 DTEND:20261129T150000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:8f79a840-e915-56e6-8736-ec8189342fc1@cp-calendar
 DESCRIPTION:Instructor: Cassie B\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2154,12 +2089,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261129T150000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:617cbc4a-e852-50f2-bec5-dfb0c01f0a79@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2167,12 +2102,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261129T160000Z
 DTEND:20261129T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:9332f68e-5edc-5fcb-9974-8daca569231e@cp-calendar
 DESCRIPTION:Instructor: Izabelle G\nStudio: North Boulder\nSpots: 45 avail
- able of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTa
- p the event link\, then pick this studio and date\, to check the live sche
- dule on corepoweryoga.com (CorePower has no direct per-class link).
+ able of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap
+  the event link\, then pick this studio and date\, to check the live sched
+ ule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2180,12 +2115,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 3 — North Boulder
 DTSTART:20261129T163000Z
 DTEND:20261129T173000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:0827f9cc-1462-53b0-934a-f032cb678b94@cp-calendar
 DESCRIPTION:Instructor: Kate J\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2193,12 +2128,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 1 — North Boulder
 DTSTART:20261129T180000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:31196e8a-8033-582c-a403-85bd3e40aa7b@cp-calendar
 DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 50 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2206,12 +2141,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261129T190000Z
 DTEND:20261129T203000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:69749e18-ec49-557e-80c8-ecd9c14a06a9@cp-calendar
 DESCRIPTION:Instructor: Amanda\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2219,12 +2154,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261129T193000Z
 DTEND:20261129T203000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:61c7d09d-c656-5f40-9df6-948c55cb1a45@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2232,12 +2167,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261129T210000Z
 DTEND:20261129T220000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:363992a8-3d94-5bfb-82f8-683dbba75550@cp-calendar
 DESCRIPTION:Instructor: Ella L\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2245,12 +2180,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261129T221500Z
 DTEND:20261129T231500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:1f5dc50c-8ba7-59f1-ab8c-c753352a7cff@cp-calendar
 DESCRIPTION:Instructor: Joy M\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2258,12 +2193,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261130T000000Z
 DTEND:20261130T011500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:89a59a5d-2c5f-5421-ae7b-07a1caa6b97e@cp-calendar
 DESCRIPTION:Instructor: Joy M\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2271,12 +2206,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261130T013000Z
 DTEND:20261130T023000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:21915078-21e3-5e90-8de1-a13f55e3dab9@cp-calendar
 DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2284,12 +2219,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261130T130000Z
 DTEND:20261130T140000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b2470dc6-745b-502f-a35a-138fcbe500ce@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2297,12 +2232,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261130T133000Z
 DTEND:20261130T143000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e60bea04-162e-538c-bf53-a3518b198977@cp-calendar
 DESCRIPTION:Instructor: Charlotte N\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2310,12 +2245,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261130T143000Z
 DTEND:20261130T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:917d958b-cb66-5435-ab99-595ced6de451@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2323,12 +2258,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261130T144500Z
 DTEND:20261130T153000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:1cb3a452-db2c-55d2-8127-b8272c82d4b1@cp-calendar
 DESCRIPTION:Instructor: Stephanie W\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2336,12 +2271,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Yoga — North Boulder
 DTSTART:20261130T154500Z
 DTEND:20261130T164500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:a0ddf7c2-570d-577d-9952-031029eb2d27@cp-calendar
 DESCRIPTION:Instructor: Soul L\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2349,12 +2284,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261130T160000Z
 DTEND:20261130T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:6db92078-d154-5c09-aaf0-1c03907737ff@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2362,12 +2297,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261130T173000Z
 DTEND:20261130T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b7d3e292-5580-5329-a970-40521709dbe5@cp-calendar
 DESCRIPTION:Instructor: Jess W\nStudio: North Boulder\nSpots: 50 available
-  of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2375,12 +2310,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261130T173000Z
 DTEND:20261130T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:8d2d4b5c-f7a9-5c8e-a04b-3ebb3eb22e10@cp-calendar
 DESCRIPTION:Instructor: Clara L\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2388,12 +2323,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261130T190000Z
 DTEND:20261130T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:a6d80623-7e11-5ebf-af79-ea7fee388cad@cp-calendar
 DESCRIPTION:Instructor: Mark S\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2401,12 +2336,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261130T203000Z
 DTEND:20261130T213000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:db88e21e-1733-5119-9ce0-2e7502f67f36@cp-calendar
 DESCRIPTION:Instructor: Mark S\nStudio: North Boulder\nSpots: 45 available
-  of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap th
- e event link\, then pick this studio and date\, to check the live schedule
-  on corepoweryoga.com (CorePower has no direct per-class link).
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2414,12 +2349,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261130T220000Z
 DTEND:20261130T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:ffb8bece-86bb-5291-8fb0-9fa0a21b2bd5@cp-calendar
 DESCRIPTION:Instructor: Jessica P\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2427,12 +2362,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261130T231500Z
 DTEND:20261201T000000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:7cc0de9f-d8a0-5550-b96c-98e7a967289c@cp-calendar
 DESCRIPTION:Instructor: Monica M\nStudio: North Boulder\nSpots: 44 availab
- le of 44\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 44\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2440,12 +2375,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261130T231500Z
 DTEND:20261201T001500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:11c1f4fb-5170-5fe2-98b3-14ae91d5b7c1@cp-calendar
 DESCRIPTION:Instructor: Ailsa C\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2453,12 +2388,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261201T003000Z
 DTEND:20261201T013000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b72ab737-7fb8-54b9-9038-f179fe45fcb0@cp-calendar
 DESCRIPTION:Instructor: Katie H\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2466,12 +2401,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261201T004500Z
 DTEND:20261201T014500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:ebffea5d-4543-5218-a35d-d941b438926e@cp-calendar
 DESCRIPTION:Instructor: Natasha S\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2479,12 +2414,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261201T030000Z
 DTEND:20261201T040000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b8a0c670-9803-5173-911a-f9f3c70d48d8@cp-calendar
 DESCRIPTION:Instructor: Jolie M\nStudio: North Boulder\nSpots: 50 availabl
- e of 50\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2492,12 +2427,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261201T041500Z
 DTEND:20261201T051500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:a45fb25b-cf19-54e3-b74c-6a75df4dcc43@cp-calendar
 DESCRIPTION:Instructor: Jolie M\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2505,12 +2440,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261201T130000Z
 DTEND:20261201T140000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:667949c2-7061-582c-b07f-71db73f75234@cp-calendar
 DESCRIPTION:Instructor: Ljubica H\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2518,12 +2453,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261201T133000Z
 DTEND:20261201T143000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:9e075d95-1384-5450-aed9-42c13ce4ac96@cp-calendar
 DESCRIPTION:Instructor: Alexandria T\nStudio: North Boulder\nSpots: 45 ava
- ilable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\n
- Tap the event link\, then pick this studio and date\, to check the live sc
- hedule on corepoweryoga.com (CorePower has no direct per-class link).
+ ilable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nT
+ ap the event link\, then pick this studio and date\, to check the live sch
+ edule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2531,12 +2466,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261201T154500Z
 DTEND:20261201T164500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:1be61503-a91a-504b-bd44-7d3cd98b7c8a@cp-calendar
 DESCRIPTION:Instructor: Clara L\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2544,12 +2479,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261201T160000Z
 DTEND:20261201T170000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:6e42b026-6ebe-5b79-9807-6962c5fd21e7@cp-calendar
 DESCRIPTION:Instructor: Tunde B\nStudio: North Boulder\nSpots: 45 availabl
- e of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap t
- he event link\, then pick this studio and date\, to check the live schedul
- e on corepoweryoga.com (CorePower has no direct per-class link).
+ e of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap th
+ e event link\, then pick this studio and date\, to check the live schedule
+  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2557,12 +2492,12 @@ BEGIN:VEVENT
 SUMMARY:Hot Power Fusion — North Boulder
 DTSTART:20261201T173000Z
 DTEND:20261201T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:3902a124-2bd0-579e-8e54-8addddf46a7a@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2570,12 +2505,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261201T173000Z
 DTEND:20261201T183000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:2ab0b9e7-01c6-5ad7-9176-7878c80e7859@cp-calendar
 DESCRIPTION:Instructor: Gracynn B\nStudio: North Boulder\nSpots: 45 availa
- ble of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap
-  the event link\, then pick this studio and date\, to check the live sched
- ule on corepoweryoga.com (CorePower has no direct per-class link).
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2583,12 +2518,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261201T190000Z
 DTEND:20261201T200000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:f199d532-8b1e-51d6-ae92-1f8890723164@cp-calendar
 DESCRIPTION:Instructor: Ashley O\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2596,12 +2531,12 @@ BEGIN:VEVENT
 SUMMARY:CoreRestore — North Boulder
 DTSTART:20261201T201500Z
 DTEND:20261201T211500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:10882098-2789-5324-8758-604109aa30b9@cp-calendar
 DESCRIPTION:Instructor: Katie\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2609,12 +2544,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261201T213000Z
 DTEND:20261201T223000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:b743b7a9-2ddf-54e2-af47-fe9f664052e0@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
-  event link\, then pick this studio and date\, to check the live schedule 
- on corepoweryoga.com (CorePower has no direct per-class link).
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2622,12 +2557,12 @@ BEGIN:VEVENT
 SUMMARY:Yoga Sculpt — North Boulder
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:da5d9db0-4eab-53d8-ade7-c31af402c887@cp-calendar
 DESCRIPTION:Instructor: Charlotte N\nStudio: North Boulder\nSpots: 45 avai
- lable of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nT
- ap the event link\, then pick this studio and date\, to check the live sch
- edule on corepoweryoga.com (CorePower has no direct per-class link).
+ lable of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTa
+ p the event link\, then pick this studio and date\, to check the live sche
+ dule on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2635,12 +2570,12 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga 2 — North Boulder
 DTSTART:20261201T231500Z
 DTEND:20261202T001500Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:e40317dd-553e-596d-8934-ce2e4a13ed59@cp-calendar
 DESCRIPTION:Instructor: Ashley L\nStudio: North Boulder\nSpots: 45 availab
- le of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap 
- the event link\, then pick this studio and date\, to check the live schedu
- le on corepoweryoga.com (CorePower has no direct per-class link).
+ le of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
 URL:https://www.corepoweryoga.com/yoga-schedules/studio
 END:VEVENT
@@ -2648,10 +2583,75 @@ BEGIN:VEVENT
 SUMMARY:CorePower Yoga Strength X — North Boulder
 DTSTART:20261201T231500Z
 DTEND:20261202T000000Z
-DTSTAMP:20261117T231709Z
+DTSTAMP:20261118T053006Z
 UID:ab271cd3-c236-5281-9574-16f91d643d93@cp-calendar
 DESCRIPTION:Instructor: Raj S\nStudio: North Boulder\nSpots: 45 available 
- of 45\n\nSynced: Nov 17\, 11:17 PM UTC (2026-11-17T23:17:09Z UTC)\nTap the
+ of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the 
+ event link\, then pick this studio and date\, to check the live schedule o
+ n corepoweryoga.com (CorePower has no direct per-class link).
+LOCATION:North Boulder
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga Sculpt — North Boulder
+DTSTART:20261202T003000Z
+DTEND:20261202T013000Z
+DTSTAMP:20261118T053006Z
+UID:5756ca53-ee6b-5153-8188-7d43c956fa1b@cp-calendar
+DESCRIPTION:Instructor: Natalie H\nStudio: North Boulder\nSpots: 45 availa
+ ble of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
+LOCATION:North Boulder
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CorePower Yoga 2 — North Boulder
+DTSTART:20261202T004500Z
+DTEND:20261202T014500Z
+DTSTAMP:20261118T053006Z
+UID:e131a78c-e946-56cf-97ac-6436d0d7cb2e@cp-calendar
+DESCRIPTION:Instructor: Ashley L\nStudio: North Boulder\nSpots: 50 availab
+ le of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap t
+ he event link\, then pick this studio and date\, to check the live schedul
+ e on corepoweryoga.com (CorePower has no direct per-class link).
+LOCATION:North Boulder
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CorePower Yoga 2 — North Boulder
+DTSTART:20261202T020000Z
+DTEND:20261202T030000Z
+DTSTAMP:20261118T053006Z
+UID:d4a9ab7e-12d5-542c-8508-6b79f555401f@cp-calendar
+DESCRIPTION:Instructor: Ljubica H\nStudio: North Boulder\nSpots: 50 availa
+ ble of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap 
+ the event link\, then pick this studio and date\, to check the live schedu
+ le on corepoweryoga.com (CorePower has no direct per-class link).
+LOCATION:North Boulder
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CorePower Yoga 1 — North Boulder
+DTSTART:20261202T021500Z
+DTEND:20261202T031500Z
+DTSTAMP:20261118T053006Z
+UID:d96aa540-aa35-5d15-866f-40e5dfaba8c3@cp-calendar
+DESCRIPTION:Instructor: Jess R\nStudio: North Boulder\nSpots: 45 available
+  of 45\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
+  event link\, then pick this studio and date\, to check the live schedule 
+ on corepoweryoga.com (CorePower has no direct per-class link).
+LOCATION:North Boulder
+URL:https://www.corepoweryoga.com/yoga-schedules/studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CoreRestore — North Boulder
+DTSTART:20261202T033000Z
+DTEND:20261202T043000Z
+DTSTAMP:20261118T053006Z
+UID:cfcc0fae-7e35-587b-bc11-d08cf21151f4@cp-calendar
+DESCRIPTION:Instructor: Jess R\nStudio: North Boulder\nSpots: 50 available
+  of 50\n\nSynced: Nov 18\, 5:30 AM UTC (2026-11-18T05:30:06Z UTC)\nTap the
   event link\, then pick this studio and date\, to check the live schedule 
  on corepoweryoga.com (CorePower has no direct per-class link).
 LOCATION:North Boulder
